@@ -128,7 +128,7 @@ const renderCoaster = (data) => {
     50,
     window.innerWidth / window.innerHeight,
     0.1,
-    500
+    1000
   );
   train.add(camera);
 
@@ -159,6 +159,7 @@ const renderCoaster = (data) => {
   });
 
   mesh = new THREE.Mesh(geometry, material);
+  mesh.position.z = 100;
   scene.add(mesh);
 
   geometry = new TreesGeometry(mesh);
@@ -167,11 +168,13 @@ const renderCoaster = (data) => {
     vertexColors: true,
   });
   mesh = new THREE.Mesh(geometry, material);
+  mesh.position.z = 100;
   scene.add(mesh);
 
   geometry = new SkyGeometry();
   material = new THREE.MeshBasicMaterial({ color: 0xffffff });
   mesh = new THREE.Mesh(geometry, material);
+  mesh.position.z = 100;
   scene.add(mesh);
 
   const curve = (function () {
