@@ -1,4 +1,6 @@
-# TVL Rollercoaster
+# Tracer TVL Rollercoaster
+
+A 3D rollercoaster ride to visualise the Tracer TVL and long/short ratio.
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).

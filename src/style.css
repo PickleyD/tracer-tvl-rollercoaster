@@ -34,6 +34,7 @@ body
     align-items: center;
     flex-wrap: wrap;
     justify-content: center;
+    gap: 20px;
 }
 
 .stat-container {
@@ -46,6 +47,8 @@ body
 .value-container {
     display: flex;
     align-items: center;
+    justify-content: space-between;
+    width: 100%;
 }
 
 #tvl, #long-positions, #left, #right, #up, #down {
@@ -72,4 +75,15 @@ body
 #tvl-label, #long-positions-label {
     font-size: 30px;
     margin-top: 20px;
+}
+
+#loading {
+    font-size: 30px;
+    margin: 40px 0;
+}
+
+#loaded {
+    display: none;
+    flex-direction: column;
+    align-items: center;
 }

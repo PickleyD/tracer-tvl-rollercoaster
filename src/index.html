@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>TVL Rollercoaster</title>
+    <link rel="icon" href="./favicon-32x32.png" type="image/png" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -15,22 +16,25 @@
     <canvas class="webgl"></canvas>
     <div class="text-container">
       <img src="./tracer-logo-black.png" width="200" />
-      <span id="date"></span>
-      <div class="stats-container">
-        <div class="stat-container">
-          <span id="tvl-label">TVL</span>
-          <div class="value-container">
-            <span id="down">▾</span>
-            <span id="tvl"></span>
-            <span id="up">▴</span>
+      <span id="loading">Loading data from API...</span>
+      <div id="loaded">
+        <span id="date"></span>
+        <div class="stats-container">
+          <div class="stat-container">
+            <span id="tvl-label">TVL</span>
+            <div class="value-container">
+              <span id="down">▾</span>
+              <span id="tvl"></span>
+              <span id="up">▴</span>
+            </div>
           </div>
-        </div>
-        <div class="stat-container">
-          <span id="long-positions-label">Long Positions</span>
-          <div class="value-container">
-            <span id="left">◂</span>
-            <span id="long-positions"></span>
-            <span id="right">▸</span>
+          <div class="stat-container">
+            <span id="long-positions-label">Long Positions</span>
+            <div class="value-container">
+              <span id="left">◂</span>
+              <span id="long-positions"></span>
+              <span id="right">▸</span>
+            </div>
           </div>
         </div>
       </div>
