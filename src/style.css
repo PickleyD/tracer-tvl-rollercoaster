@@ -1,0 +1,75 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body
+{
+    overflow: hidden;
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
+
+.text-container {
+    position: absolute;
+    top: 40px;
+    left: 0;
+    right: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.stats-container {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.stat-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+}
+
+.value-container {
+    display: flex;
+    align-items: center;
+}
+
+#tvl, #long-positions, #left, #right, #up, #down {
+    font-size: 60px;
+}
+
+#left, #right, #up, #down {
+    opacity: 0;
+}
+
+.long {
+    color: green;
+}
+
+.short {
+    color: red;
+}
+
+#date {
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+#tvl-label, #long-positions-label {
+    font-size: 30px;
+    margin-top: 20px;
+}

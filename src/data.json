@@ -1,0 +1,3146 @@
+[
+    {
+      "total_value_secured": 36966.52593,
+      "total_value_secured_short": 18469.533363,
+      "total_value_secured_long": 18496.992567,
+      "timestamp": "1631773328"
+    },
+    {
+      "total_value_secured": 2598258.208991,
+      "total_value_secured_short": 1230669.556798,
+      "total_value_secured_long": 1367588.652193,
+      "timestamp": "1631809782"
+    },
+    {
+      "total_value_secured": 2837020.326303,
+      "total_value_secured_short": 1322816.304199,
+      "total_value_secured_long": 1514204.022104,
+      "timestamp": "1631835254"
+    },
+    {
+      "total_value_secured": 4006563.321619,
+      "total_value_secured_short": 1881435.343224,
+      "total_value_secured_long": 2125127.978395,
+      "timestamp": "1631853435"
+    },
+    {
+      "total_value_secured": 5719165.462501,
+      "total_value_secured_short": 2727437.692139,
+      "total_value_secured_long": 2991727.770362,
+      "timestamp": "1631868192"
+    },
+    {
+      "total_value_secured": 8993440.001516,
+      "total_value_secured_short": 4464375.315178,
+      "total_value_secured_long": 4529064.686338,
+      "timestamp": "1631894705"
+    },
+    {
+      "total_value_secured": 9145038.520719,
+      "total_value_secured_short": 4548727.326548,
+      "total_value_secured_long": 4596311.194171,
+      "timestamp": "1631931045"
+    },
+    {
+      "total_value_secured": 10294152.609135,
+      "total_value_secured_short": 4879208.992893,
+      "total_value_secured_long": 5414943.616242,
+      "timestamp": "1631967271"
+    },
+    {
+      "total_value_secured": 10542009.303871,
+      "total_value_secured_short": 5195357.051991,
+      "total_value_secured_long": 5346652.25188,
+      "timestamp": "1632003455"
+    },
+    {
+      "total_value_secured": 11770816.949368,
+      "total_value_secured_short": 5677885.985187,
+      "total_value_secured_long": 6092930.964181,
+      "timestamp": "1632039832"
+    },
+    {
+      "total_value_secured": 12489198.531423,
+      "total_value_secured_short": 6245076.868325,
+      "total_value_secured_long": 6244121.663098,
+      "timestamp": "1632076080"
+    },
+    {
+      "total_value_secured": 12499070.031409,
+      "total_value_secured_short": 6434569.323703,
+      "total_value_secured_long": 6064500.707706,
+      "timestamp": "1632101510"
+    },
+    {
+      "total_value_secured": 13503670.712063,
+      "total_value_secured_short": 7039808.854661,
+      "total_value_secured_long": 6463861.857402,
+      "timestamp": "1632119700"
+    },
+    {
+      "total_value_secured": 14345561.066638,
+      "total_value_secured_short": 7556699.149495,
+      "total_value_secured_long": 6788861.917143,
+      "timestamp": "1632130806"
+    },
+    {
+      "total_value_secured": 14317792.543095,
+      "total_value_secured_short": 8079860.049632,
+      "total_value_secured_long": 6237932.493463,
+      "timestamp": "1632141721"
+    },
+    {
+      "total_value_secured": 13951938.740277,
+      "total_value_secured_short": 7403139.603393,
+      "total_value_secured_long": 6548799.136884,
+      "timestamp": "1632152457"
+    },
+    {
+      "total_value_secured": 15789395.059712,
+      "total_value_secured_short": 8297198.501988,
+      "total_value_secured_long": 7492196.557724,
+      "timestamp": "1632160017"
+    },
+    {
+      "total_value_secured": 15805683.760307,
+      "total_value_secured_short": 8577526.158118,
+      "total_value_secured_long": 7228157.602189,
+      "timestamp": "1632170961"
+    },
+    {
+      "total_value_secured": 16383776.623941,
+      "total_value_secured_short": 8963669.925478,
+      "total_value_secured_long": 7420106.698463,
+      "timestamp": "1632181699"
+    },
+    {
+      "total_value_secured": 17357651.341732,
+      "total_value_secured_short": 9393579.299253,
+      "total_value_secured_long": 7964072.042479,
+      "timestamp": "1632192490"
+    },
+    {
+      "total_value_secured": 17358587.02462,
+      "total_value_secured_short": 9484618.17767,
+      "total_value_secured_long": 7873968.84695,
+      "timestamp": "1632200145"
+    },
+    {
+      "total_value_secured": 16367644.218051,
+      "total_value_secured_short": 8646691.638415,
+      "total_value_secured_long": 7720952.579636,
+      "timestamp": "1632210799"
+    },
+    {
+      "total_value_secured": 17367412.744132,
+      "total_value_secured_short": 9056915.656468,
+      "total_value_secured_long": 8310497.087664,
+      "timestamp": "1632218354"
+    },
+    {
+      "total_value_secured": 17360108.63591,
+      "total_value_secured_short": 9109143.967236,
+      "total_value_secured_long": 8250964.668674,
+      "timestamp": "1632229109"
+    },
+    {
+      "total_value_secured": 17353228.773882,
+      "total_value_secured_short": 9054607.500041,
+      "total_value_secured_long": 8298621.273841,
+      "timestamp": "1632240086"
+    },
+    {
+      "total_value_secured": 17615171.962418,
+      "total_value_secured_short": 9477119.097728,
+      "total_value_secured_long": 8138052.86469,
+      "timestamp": "1632254291"
+    },
+    {
+      "total_value_secured": 17611321.675526,
+      "total_value_secured_short": 9810142.103951,
+      "total_value_secured_long": 7801179.571575,
+      "timestamp": "1632265198"
+    },
+    {
+      "total_value_secured": 17633627.867076,
+      "total_value_secured_short": 9625110.025121,
+      "total_value_secured_long": 8008517.841955,
+      "timestamp": "1632276099"
+    },
+    {
+      "total_value_secured": 17632557.731199,
+      "total_value_secured_short": 9362531.927423,
+      "total_value_secured_long": 8270025.803776,
+      "timestamp": "1632283854"
+    },
+    {
+      "total_value_secured": 17642457.998467,
+      "total_value_secured_short": 9235337.021617,
+      "total_value_secured_long": 8407120.97685,
+      "timestamp": "1632294555"
+    },
+    {
+      "total_value_secured": 17642387.639965,
+      "total_value_secured_short": 9124853.805328,
+      "total_value_secured_long": 8517533.834637,
+      "timestamp": "1632305539"
+    },
+    {
+      "total_value_secured": 17644829.006685,
+      "total_value_secured_short": 9297336.952662,
+      "total_value_secured_long": 8347492.054023,
+      "timestamp": "1632313020"
+    },
+    {
+      "total_value_secured": 17647865.199731,
+      "total_value_secured_short": 9074992.102795,
+      "total_value_secured_long": 8572873.096936,
+      "timestamp": "1632323897"
+    },
+    {
+      "total_value_secured": 17822803.551647,
+      "total_value_secured_short": 8782263.254723,
+      "total_value_secured_long": 9040540.296924,
+      "timestamp": "1632334477"
+    },
+    {
+      "total_value_secured": 17837827.284421,
+      "total_value_secured_short": 8866618.316552,
+      "total_value_secured_long": 8971208.967869,
+      "timestamp": "1632345628"
+    },
+    {
+      "total_value_secured": 17838533.148876,
+      "total_value_secured_short": 8727433.782052,
+      "total_value_secured_long": 9111099.366824,
+      "timestamp": "1632356425"
+    },
+    {
+      "total_value_secured": 17880705.774149,
+      "total_value_secured_short": 8713268.534355,
+      "total_value_secured_long": 9167437.239794,
+      "timestamp": "1632363948"
+    },
+    {
+      "total_value_secured": 17954137.33109,
+      "total_value_secured_short": 8617592.631142,
+      "total_value_secured_long": 9336544.699948,
+      "timestamp": "1632374802"
+    },
+    {
+      "total_value_secured": 18040991.887063,
+      "total_value_secured_short": 8630816.274422,
+      "total_value_secured_long": 9410175.612641,
+      "timestamp": "1632385380"
+    },
+    {
+      "total_value_secured": 18021647.655318,
+      "total_value_secured_short": 8875282.811997,
+      "total_value_secured_long": 9146364.843321,
+      "timestamp": "1632396413"
+    },
+    {
+      "total_value_secured": 17979244.466689,
+      "total_value_secured_short": 8772394.936734,
+      "total_value_secured_long": 9206849.529955,
+      "timestamp": "1632407282"
+    },
+    {
+      "total_value_secured": 17992211.210548,
+      "total_value_secured_short": 8794171.495184,
+      "total_value_secured_long": 9198039.715364,
+      "timestamp": "1632414980"
+    },
+    {
+      "total_value_secured": 17968643.096062,
+      "total_value_secured_short": 8568248.376822,
+      "total_value_secured_long": 9400394.71924,
+      "timestamp": "1632425437"
+    },
+    {
+      "total_value_secured": 18372979.135989,
+      "total_value_secured_short": 8779868.981117,
+      "total_value_secured_long": 9593110.154872,
+      "timestamp": "1632433192"
+    },
+    {
+      "total_value_secured": 18375176.763292,
+      "total_value_secured_short": 8766159.10751,
+      "total_value_secured_long": 9609017.655782,
+      "timestamp": "1632443554"
+    },
+    {
+      "total_value_secured": 18262646.210139,
+      "total_value_secured_short": 9113265.133909,
+      "total_value_secured_long": 9149381.07623,
+      "timestamp": "1632451407"
+    },
+    {
+      "total_value_secured": 18221278.385512,
+      "total_value_secured_short": 9157796.280259,
+      "total_value_secured_long": 9063482.105253,
+      "timestamp": "1632461795"
+    },
+    {
+      "total_value_secured": 18236985.480188,
+      "total_value_secured_short": 8989931.845244,
+      "total_value_secured_long": 9247053.634944,
+      "timestamp": "1632469683"
+    },
+    {
+      "total_value_secured": 17703197.71156,
+      "total_value_secured_short": 9442095.037585,
+      "total_value_secured_long": 8261102.673975,
+      "timestamp": "1632479913"
+    },
+    {
+      "total_value_secured": 17652313.240976,
+      "total_value_secured_short": 9700808.663008,
+      "total_value_secured_long": 7951504.577968,
+      "timestamp": "1632487933"
+    },
+    {
+      "total_value_secured": 17734765.374823,
+      "total_value_secured_short": 9362825.933312,
+      "total_value_secured_long": 8371939.441511,
+      "timestamp": "1632498137"
+    },
+    {
+      "total_value_secured": 17734692.138057,
+      "total_value_secured_short": 9449504.810245,
+      "total_value_secured_long": 8285187.327812,
+      "timestamp": "1632506084"
+    },
+    {
+      "total_value_secured": 17735650.223249,
+      "total_value_secured_short": 9244994.902207,
+      "total_value_secured_long": 8490655.321042,
+      "timestamp": "1632516454"
+    },
+    {
+      "total_value_secured": 17742533.301113,
+      "total_value_secured_short": 9062079.09265,
+      "total_value_secured_long": 8680454.208463,
+      "timestamp": "1632524350"
+    },
+    {
+      "total_value_secured": 17749377.51281,
+      "total_value_secured_short": 9195329.207942,
+      "total_value_secured_long": 8554048.304868,
+      "timestamp": "1632534741"
+    },
+    {
+      "total_value_secured": 17819305.361837,
+      "total_value_secured_short": 9258362.088872,
+      "total_value_secured_long": 8560943.272965,
+      "timestamp": "1632542535"
+    },
+    {
+      "total_value_secured": 17464216.90259,
+      "total_value_secured_short": 9257186.617513,
+      "total_value_secured_long": 8207030.285077,
+      "timestamp": "1632552900"
+    },
+    {
+      "total_value_secured": 17826307.902704,
+      "total_value_secured_short": 9708765.895505,
+      "total_value_secured_long": 8117542.007199,
+      "timestamp": "1632560731"
+    },
+    {
+      "total_value_secured": 17932383.678139,
+      "total_value_secured_short": 9611161.450408,
+      "total_value_secured_long": 8321222.227731,
+      "timestamp": "1632571102"
+    },
+    {
+      "total_value_secured": 17934314.423762,
+      "total_value_secured_short": 9627432.297026,
+      "total_value_secured_long": 8306882.126736,
+      "timestamp": "1632578879"
+    },
+    {
+      "total_value_secured": 17934351.711527,
+      "total_value_secured_short": 9623254.599458,
+      "total_value_secured_long": 8311097.112069,
+      "timestamp": "1632589691"
+    },
+    {
+      "total_value_secured": 17937500.026559,
+      "total_value_secured_short": 9623526.674224,
+      "total_value_secured_long": 8313973.352335,
+      "timestamp": "1632597409"
+    },
+    {
+      "total_value_secured": 18019422.467212,
+      "total_value_secured_short": 9619307.46737,
+      "total_value_secured_long": 8400114.999842,
+      "timestamp": "1632608044"
+    },
+    {
+      "total_value_secured": 18021384.089996,
+      "total_value_secured_short": 9651267.149886,
+      "total_value_secured_long": 8370116.94011,
+      "timestamp": "1632618647"
+    },
+    {
+      "total_value_secured": 18096306.82623,
+      "total_value_secured_short": 9848344.43268,
+      "total_value_secured_long": 8247962.39355,
+      "timestamp": "1632626455"
+    },
+    {
+      "total_value_secured": 17879879.050231,
+      "total_value_secured_short": 9220358.705392,
+      "total_value_secured_long": 8659520.344839,
+      "timestamp": "1632637433"
+    },
+    {
+      "total_value_secured": 17423293.266408,
+      "total_value_secured_short": 9249689.047155,
+      "total_value_secured_long": 8173604.219253,
+      "timestamp": "1632648345"
+    },
+    {
+      "total_value_secured": 17371618.183673,
+      "total_value_secured_short": 8505266.383288,
+      "total_value_secured_long": 8866351.800385,
+      "timestamp": "1632662385"
+    },
+    {
+      "total_value_secured": 17383788.233947,
+      "total_value_secured_short": 8474059.781204,
+      "total_value_secured_long": 8909728.452743,
+      "timestamp": "1632670211"
+    },
+    {
+      "total_value_secured": 17508921.731396,
+      "total_value_secured_short": 8541672.629675,
+      "total_value_secured_long": 8967249.101721,
+      "timestamp": "1632680992"
+    },
+    {
+      "total_value_secured": 17518883.731987,
+      "total_value_secured_short": 8437515.658747,
+      "total_value_secured_long": 9081368.07324,
+      "timestamp": "1632688445"
+    },
+    {
+      "total_value_secured": 17560321.936105,
+      "total_value_secured_short": 8496867.2469,
+      "total_value_secured_long": 9063454.689205,
+      "timestamp": "1632699128"
+    },
+    {
+      "total_value_secured": 17455810.835258,
+      "total_value_secured_short": 8262084.339404,
+      "total_value_secured_long": 9193726.495854,
+      "timestamp": "1632709843"
+    },
+    {
+      "total_value_secured": 18038690.167982,
+      "total_value_secured_short": 8573311.560204,
+      "total_value_secured_long": 9465378.607778,
+      "timestamp": "1632717526"
+    },
+    {
+      "total_value_secured": 18395801.532588,
+      "total_value_secured_short": 8686227.061275,
+      "total_value_secured_long": 9709574.471313,
+      "timestamp": "1632728282"
+    },
+    {
+      "total_value_secured": 18321173.351651,
+      "total_value_secured_short": 8733630.09854,
+      "total_value_secured_long": 9587543.253111,
+      "timestamp": "1632735795"
+    },
+    {
+      "total_value_secured": 18415981.644867,
+      "total_value_secured_short": 8918940.141009,
+      "total_value_secured_long": 9497041.503858,
+      "timestamp": "1632746494"
+    },
+    {
+      "total_value_secured": 18639182.481804,
+      "total_value_secured_short": 9071598.652349,
+      "total_value_secured_long": 9567583.829455,
+      "timestamp": "1632754131"
+    },
+    {
+      "total_value_secured": 18783158.864325,
+      "total_value_secured_short": 9388957.604062,
+      "total_value_secured_long": 9394201.260263,
+      "timestamp": "1632764600"
+    },
+    {
+      "total_value_secured": 18993103.475114,
+      "total_value_secured_short": 9547320.501254,
+      "total_value_secured_long": 9445782.97386,
+      "timestamp": "1632772369"
+    },
+    {
+      "total_value_secured": 19040530.651917,
+      "total_value_secured_short": 9537116.114718,
+      "total_value_secured_long": 9503414.537199,
+      "timestamp": "1632782901"
+    },
+    {
+      "total_value_secured": 19560649.169133,
+      "total_value_secured_short": 10099243.243138,
+      "total_value_secured_long": 9461405.925995,
+      "timestamp": "1632790680"
+    },
+    {
+      "total_value_secured": 19436657.497974,
+      "total_value_secured_short": 9913329.83091,
+      "total_value_secured_long": 9523327.667064,
+      "timestamp": "1632801131"
+    },
+    {
+      "total_value_secured": 19384708.579116,
+      "total_value_secured_short": 9906852.606677,
+      "total_value_secured_long": 9477855.972439,
+      "timestamp": "1632808863"
+    },
+    {
+      "total_value_secured": 19157690.957227,
+      "total_value_secured_short": 9993326.683614,
+      "total_value_secured_long": 9164364.273613,
+      "timestamp": "1632819722"
+    },
+    {
+      "total_value_secured": 19174284.063366,
+      "total_value_secured_short": 9876740.318256,
+      "total_value_secured_long": 9297543.74511,
+      "timestamp": "1632830382"
+    },
+    {
+      "total_value_secured": 19181259.123235,
+      "total_value_secured_short": 9950273.374104,
+      "total_value_secured_long": 9230985.749131,
+      "timestamp": "1632840925"
+    },
+    {
+      "total_value_secured": 19258704.96709,
+      "total_value_secured_short": 10292032.714271,
+      "total_value_secured_long": 8966672.252819,
+      "timestamp": "1632851835"
+    },
+    {
+      "total_value_secured": 19259592.365223,
+      "total_value_secured_short": 10172000.460229,
+      "total_value_secured_long": 9087591.904994,
+      "timestamp": "1632859845"
+    },
+    {
+      "total_value_secured": 19829371.020034,
+      "total_value_secured_short": 10363964.102205,
+      "total_value_secured_long": 9465406.917829,
+      "timestamp": "1632870315"
+    },
+    {
+      "total_value_secured": 19825608.698203,
+      "total_value_secured_short": 10368048.211861,
+      "total_value_secured_long": 9457560.486342,
+      "timestamp": "1632878130"
+    },
+    {
+      "total_value_secured": 19867138.823721,
+      "total_value_secured_short": 10191098.897571,
+      "total_value_secured_long": 9676039.92615,
+      "timestamp": "1632888451"
+    },
+    {
+      "total_value_secured": 19852577.702526,
+      "total_value_secured_short": 10037810.65811,
+      "total_value_secured_long": 9814767.044416,
+      "timestamp": "1632896389"
+    },
+    {
+      "total_value_secured": 19876814.940838,
+      "total_value_secured_short": 10036418.255235,
+      "total_value_secured_long": 9840396.685603,
+      "timestamp": "1632907090"
+    },
+    {
+      "total_value_secured": 19846955.304565,
+      "total_value_secured_short": 9929409.991467,
+      "total_value_secured_long": 9917545.313098,
+      "timestamp": "1632917571"
+    },
+    {
+      "total_value_secured": 20069778.147476,
+      "total_value_secured_short": 10177327.752589,
+      "total_value_secured_long": 9892450.394887,
+      "timestamp": "1632925226"
+    },
+    {
+      "total_value_secured": 20140640.264294,
+      "total_value_secured_short": 10493794.601094,
+      "total_value_secured_long": 9646845.6632,
+      "timestamp": "1632935834"
+    },
+    {
+      "total_value_secured": 20036074.991258,
+      "total_value_secured_short": 10568304.449731,
+      "total_value_secured_long": 9467770.541527,
+      "timestamp": "1632943451"
+    },
+    {
+      "total_value_secured": 19758148.718988,
+      "total_value_secured_short": 10340021.104355,
+      "total_value_secured_long": 9418127.614633,
+      "timestamp": "1632954019"
+    },
+    {
+      "total_value_secured": 19905413.073406,
+      "total_value_secured_short": 10190022.828249,
+      "total_value_secured_long": 9715390.245157,
+      "timestamp": "1632961741"
+    },
+    {
+      "total_value_secured": 19901481.009006,
+      "total_value_secured_short": 9636017.16417,
+      "total_value_secured_long": 10265463.844836,
+      "timestamp": "1632972366"
+    },
+    {
+      "total_value_secured": 20339174.689749,
+      "total_value_secured_short": 9749284.766099,
+      "total_value_secured_long": 10589889.92365,
+      "timestamp": "1632983304"
+    },
+    {
+      "total_value_secured": 20429936.110233,
+      "total_value_secured_short": 10042590.042473,
+      "total_value_secured_long": 10387346.06776,
+      "timestamp": "1632990983"
+    },
+    {
+      "total_value_secured": 20586378.702441,
+      "total_value_secured_short": 10251864.383188,
+      "total_value_secured_long": 10334514.319253,
+      "timestamp": "1633001918"
+    },
+    {
+      "total_value_secured": 20671452.346118,
+      "total_value_secured_short": 10133597.618236,
+      "total_value_secured_long": 10537854.727882,
+      "timestamp": "1633012704"
+    },
+    {
+      "total_value_secured": 20663702.519516,
+      "total_value_secured_short": 10201118.793879,
+      "total_value_secured_long": 10462583.725637,
+      "timestamp": "1633020087"
+    },
+    {
+      "total_value_secured": 20698374.581211,
+      "total_value_secured_short": 9948336.139636,
+      "total_value_secured_long": 10750038.441575,
+      "timestamp": "1633030971"
+    },
+    {
+      "total_value_secured": 21580612.694302,
+      "total_value_secured_short": 10421446.276205,
+      "total_value_secured_long": 11159166.418097,
+      "timestamp": "1633041978"
+    },
+    {
+      "total_value_secured": 21573276.494258,
+      "total_value_secured_short": 10461045.123009,
+      "total_value_secured_long": 11112231.371249,
+      "timestamp": "1633052884"
+    },
+    {
+      "total_value_secured": 21235058.952415,
+      "total_value_secured_short": 10287840.366015,
+      "total_value_secured_long": 10947218.5864,
+      "timestamp": "1633063379"
+    },
+    {
+      "total_value_secured": 21436977.909401,
+      "total_value_secured_short": 10307021.007385,
+      "total_value_secured_long": 11129956.902016,
+      "timestamp": "1633071179"
+    },
+    {
+      "total_value_secured": 21462947.667269,
+      "total_value_secured_short": 9958231.590651,
+      "total_value_secured_long": 11504716.076618,
+      "timestamp": "1633082193"
+    },
+    {
+      "total_value_secured": 21426568.956362,
+      "total_value_secured_short": 9588538.416562,
+      "total_value_secured_long": 11838030.5398,
+      "timestamp": "1633092743"
+    },
+    {
+      "total_value_secured": 21404498.183716,
+      "total_value_secured_short": 9809481.797444,
+      "total_value_secured_long": 11595016.386272,
+      "timestamp": "1633103357"
+    },
+    {
+      "total_value_secured": 21388649.31339,
+      "total_value_secured_short": 9549165.644472,
+      "total_value_secured_long": 11839483.668918,
+      "timestamp": "1633114343"
+    },
+    {
+      "total_value_secured": 21405529.977305,
+      "total_value_secured_short": 9468926.081336,
+      "total_value_secured_long": 11936603.895969,
+      "timestamp": "1633122436"
+    },
+    {
+      "total_value_secured": 21444816.874061,
+      "total_value_secured_short": 9512569.805098,
+      "total_value_secured_long": 11932247.068963,
+      "timestamp": "1633133260"
+    },
+    {
+      "total_value_secured": 21494267.694633,
+      "total_value_secured_short": 9653145.885866,
+      "total_value_secured_long": 11841121.808767,
+      "timestamp": "1633143453"
+    },
+    {
+      "total_value_secured": 21499102.304866,
+      "total_value_secured_short": 9796948.721554,
+      "total_value_secured_long": 11702153.583312,
+      "timestamp": "1633151450"
+    },
+    {
+      "total_value_secured": 21578272.27241,
+      "total_value_secured_short": 9798691.562172,
+      "total_value_secured_long": 11779580.710238,
+      "timestamp": "1633161719"
+    },
+    {
+      "total_value_secured": 21809967.990026,
+      "total_value_secured_short": 9926900.619335,
+      "total_value_secured_long": 11883067.370691,
+      "timestamp": "1633169798"
+    },
+    {
+      "total_value_secured": 21869673.359183,
+      "total_value_secured_short": 9978350.926213,
+      "total_value_secured_long": 11891322.43297,
+      "timestamp": "1633179822"
+    },
+    {
+      "total_value_secured": 22364832.270526,
+      "total_value_secured_short": 10081914.320237,
+      "total_value_secured_long": 12282917.950289,
+      "timestamp": "1633188145"
+    },
+    {
+      "total_value_secured": 22361979.524675,
+      "total_value_secured_short": 9938489.316967,
+      "total_value_secured_long": 12423490.207708,
+      "timestamp": "1633198448"
+    },
+    {
+      "total_value_secured": 22363132.314836,
+      "total_value_secured_short": 9884621.495985,
+      "total_value_secured_long": 12478510.818851,
+      "timestamp": "1633206381"
+    },
+    {
+      "total_value_secured": 22442999.500753,
+      "total_value_secured_short": 10040778.499115,
+      "total_value_secured_long": 12402221.001638,
+      "timestamp": "1633216864"
+    },
+    {
+      "total_value_secured": 22244291.016929,
+      "total_value_secured_short": 10454955.4704,
+      "total_value_secured_long": 11789335.546529,
+      "timestamp": "1633224834"
+    },
+    {
+      "total_value_secured": 22745211.577058,
+      "total_value_secured_short": 10547357.332988,
+      "total_value_secured_long": 12197854.24407,
+      "timestamp": "1633235208"
+    },
+    {
+      "total_value_secured": 22746125.838048,
+      "total_value_secured_short": 10439189.599443,
+      "total_value_secured_long": 12306936.238605,
+      "timestamp": "1633243095"
+    },
+    {
+      "total_value_secured": 22726026.152792,
+      "total_value_secured_short": 10587819.617437,
+      "total_value_secured_long": 12138206.535355,
+      "timestamp": "1633253419"
+    },
+    {
+      "total_value_secured": 22684221.289165,
+      "total_value_secured_short": 10494808.057603,
+      "total_value_secured_long": 12189413.231562,
+      "timestamp": "1633261331"
+    },
+    {
+      "total_value_secured": 22643689.509278,
+      "total_value_secured_short": 10381820.912824,
+      "total_value_secured_long": 12261868.596454,
+      "timestamp": "1633271544"
+    },
+    {
+      "total_value_secured": 22675354.468474,
+      "total_value_secured_short": 10531744.064034,
+      "total_value_secured_long": 12143610.40444,
+      "timestamp": "1633279557"
+    },
+    {
+      "total_value_secured": 22653654.034298,
+      "total_value_secured_short": 10204693.197016,
+      "total_value_secured_long": 12448960.837282,
+      "timestamp": "1633289738"
+    },
+    {
+      "total_value_secured": 22648022.639419,
+      "total_value_secured_short": 10631693.852098,
+      "total_value_secured_long": 12016328.787321,
+      "timestamp": "1633297724"
+    },
+    {
+      "total_value_secured": 22809634.309532,
+      "total_value_secured_short": 10643472.489816,
+      "total_value_secured_long": 12166161.819716,
+      "timestamp": "1633307931"
+    },
+    {
+      "total_value_secured": 22818240.757542,
+      "total_value_secured_short": 10828727.573432,
+      "total_value_secured_long": 11989513.18411,
+      "timestamp": "1633315947"
+    },
+    {
+      "total_value_secured": 22843559.379228,
+      "total_value_secured_short": 10866866.57985,
+      "total_value_secured_long": 11976692.799378,
+      "timestamp": "1633326192"
+    },
+    {
+      "total_value_secured": 22858586.72205,
+      "total_value_secured_short": 10892349.035285,
+      "total_value_secured_long": 11966237.686765,
+      "timestamp": "1633334112"
+    },
+    {
+      "total_value_secured": 22920738.599651,
+      "total_value_secured_short": 10995563.300867,
+      "total_value_secured_long": 11925175.298784,
+      "timestamp": "1633344428"
+    },
+    {
+      "total_value_secured": 22995286.214155,
+      "total_value_secured_short": 11046732.89947,
+      "total_value_secured_long": 11948553.314685,
+      "timestamp": "1633352325"
+    },
+    {
+      "total_value_secured": 23004479.681288,
+      "total_value_secured_short": 11119835.574339,
+      "total_value_secured_long": 11884644.106949,
+      "timestamp": "1633362555"
+    },
+    {
+      "total_value_secured": 22987421.826892,
+      "total_value_secured_short": 10639520.77743,
+      "total_value_secured_long": 12347901.049462,
+      "timestamp": "1633370442"
+    },
+    {
+      "total_value_secured": 22878936.607275,
+      "total_value_secured_short": 10647281.823583,
+      "total_value_secured_long": 12231654.783692,
+      "timestamp": "1633380913"
+    },
+    {
+      "total_value_secured": 22826620.851112,
+      "total_value_secured_short": 10775203.856731,
+      "total_value_secured_long": 12051416.994381,
+      "timestamp": "1633388625"
+    },
+    {
+      "total_value_secured": 22892314.441592,
+      "total_value_secured_short": 10671174.194868,
+      "total_value_secured_long": 12221140.246724,
+      "timestamp": "1633399192"
+    },
+    {
+      "total_value_secured": 23978025.813123,
+      "total_value_secured_short": 11402893.372409,
+      "total_value_secured_long": 12575132.440714,
+      "timestamp": "1633409057"
+    },
+    {
+      "total_value_secured": 23993197.718883,
+      "total_value_secured_short": 11411703.431131,
+      "total_value_secured_long": 12581494.287752,
+      "timestamp": "1633417639"
+    },
+    {
+      "total_value_secured": 24063828.475363,
+      "total_value_secured_short": 11257748.21166,
+      "total_value_secured_long": 12806080.263703,
+      "timestamp": "1633428319"
+    },
+    {
+      "total_value_secured": 24419594.198183,
+      "total_value_secured_short": 11380843.010376,
+      "total_value_secured_long": 13038751.187807,
+      "timestamp": "1633435810"
+    },
+    {
+      "total_value_secured": 24297663.544227,
+      "total_value_secured_short": 11336710.234587,
+      "total_value_secured_long": 12960953.30964,
+      "timestamp": "1633446453"
+    },
+    {
+      "total_value_secured": 23765690.678722,
+      "total_value_secured_short": 11160005.167503,
+      "total_value_secured_long": 12605685.511219,
+      "timestamp": "1633453977"
+    },
+    {
+      "total_value_secured": 24301834.046967,
+      "total_value_secured_short": 11196861.09618,
+      "total_value_secured_long": 13104972.950787,
+      "timestamp": "1633464665"
+    },
+    {
+      "total_value_secured": 24340074.447572,
+      "total_value_secured_short": 10984631.575633,
+      "total_value_secured_long": 13355442.871939,
+      "timestamp": "1633472250"
+    },
+    {
+      "total_value_secured": 24630070.264183,
+      "total_value_secured_short": 11279032.756413,
+      "total_value_secured_long": 13351037.50777,
+      "timestamp": "1633482805"
+    },
+    {
+      "total_value_secured": 25371835.500161,
+      "total_value_secured_short": 11829924.770131,
+      "total_value_secured_long": 13541910.73003,
+      "timestamp": "1633492899"
+    },
+    {
+      "total_value_secured": 25722904.328628,
+      "total_value_secured_short": 12031306.511467,
+      "total_value_secured_long": 13691597.817161,
+      "timestamp": "1633501149"
+    },
+    {
+      "total_value_secured": 26813715.564687,
+      "total_value_secured_short": 13213574.348814,
+      "total_value_secured_long": 13600141.215873,
+      "timestamp": "1633511067"
+    },
+    {
+      "total_value_secured": 27507645.397225,
+      "total_value_secured_short": 13459244.802591,
+      "total_value_secured_long": 14048400.594634,
+      "timestamp": "1633519311"
+    },
+    {
+      "total_value_secured": 28590698.272073,
+      "total_value_secured_short": 12638963.890772,
+      "total_value_secured_long": 15951734.381301,
+      "timestamp": "1633529249"
+    },
+    {
+      "total_value_secured": 28448110.755031,
+      "total_value_secured_short": 12672361.672075,
+      "total_value_secured_long": 15775749.082956,
+      "timestamp": "1633537474"
+    },
+    {
+      "total_value_secured": 28077467.729681,
+      "total_value_secured_short": 12776127.462941,
+      "total_value_secured_long": 15301340.26674,
+      "timestamp": "1633547640"
+    },
+    {
+      "total_value_secured": 28032062.498211,
+      "total_value_secured_short": 12734581.779404,
+      "total_value_secured_long": 15297480.718807,
+      "timestamp": "1633555652"
+    },
+    {
+      "total_value_secured": 28087669.245138,
+      "total_value_secured_short": 12680027.014502,
+      "total_value_secured_long": 15407642.230636,
+      "timestamp": "1633565825"
+    },
+    {
+      "total_value_secured": 28322890.299627,
+      "total_value_secured_short": 13242151.063681,
+      "total_value_secured_long": 15080739.235946,
+      "timestamp": "1633573791"
+    },
+    {
+      "total_value_secured": 28329529.411369,
+      "total_value_secured_short": 13270015.841642,
+      "total_value_secured_long": 15059513.569727,
+      "timestamp": "1633584002"
+    },
+    {
+      "total_value_secured": 28381928.725377,
+      "total_value_secured_short": 13386658.332992,
+      "total_value_secured_long": 14995270.392385,
+      "timestamp": "1633592445"
+    },
+    {
+      "total_value_secured": 28185141.772317,
+      "total_value_secured_short": 13164223.729642,
+      "total_value_secured_long": 15020918.042675,
+      "timestamp": "1633603358"
+    },
+    {
+      "total_value_secured": 28294264.067094,
+      "total_value_secured_short": 13234288.080408,
+      "total_value_secured_long": 15059975.986686,
+      "timestamp": "1633614006"
+    },
+    {
+      "total_value_secured": 28398800.792952,
+      "total_value_secured_short": 13295599.896189,
+      "total_value_secured_long": 15103200.896763,
+      "timestamp": "1633625137"
+    },
+    {
+      "total_value_secured": 28467717.152386,
+      "total_value_secured_short": 13291766.679641,
+      "total_value_secured_long": 15175950.472745,
+      "timestamp": "1633636046"
+    },
+    {
+      "total_value_secured": 29284134.188927,
+      "total_value_secured_short": 13848012.255623,
+      "total_value_secured_long": 15436121.933304,
+      "timestamp": "1633646916"
+    },
+    {
+      "total_value_secured": 29374125.747521,
+      "total_value_secured_short": 13883018.342381,
+      "total_value_secured_long": 15491107.40514,
+      "timestamp": "1633657802"
+    },
+    {
+      "total_value_secured": 31599241.431317,
+      "total_value_secured_short": 14817002.064559,
+      "total_value_secured_long": 16782239.366758,
+      "timestamp": "1633668002"
+    },
+    {
+      "total_value_secured": 32437894.022142,
+      "total_value_secured_short": 14822907.349352,
+      "total_value_secured_long": 17614986.67279,
+      "timestamp": "1633676239"
+    },
+    {
+      "total_value_secured": 31200727.935671,
+      "total_value_secured_short": 13006739.459907,
+      "total_value_secured_long": 18193988.475764,
+      "timestamp": "1633687128"
+    },
+    {
+      "total_value_secured": 30783628.300782,
+      "total_value_secured_short": 13272318.828807,
+      "total_value_secured_long": 17511309.471975,
+      "timestamp": "1633697146"
+    },
+    {
+      "total_value_secured": 31023082.243382,
+      "total_value_secured_short": 13587539.949457,
+      "total_value_secured_long": 17435542.293925,
+      "timestamp": "1633705347"
+    },
+    {
+      "total_value_secured": 31227762.613997,
+      "total_value_secured_short": 13915999.060413,
+      "total_value_secured_long": 17311763.553584,
+      "timestamp": "1633715459"
+    },
+    {
+      "total_value_secured": 31470466.614213,
+      "total_value_secured_short": 13979011.398034,
+      "total_value_secured_long": 17491455.216179,
+      "timestamp": "1633723592"
+    },
+    {
+      "total_value_secured": 31446142.028522,
+      "total_value_secured_short": 14278983.305906,
+      "total_value_secured_long": 17167158.722616,
+      "timestamp": "1633734368"
+    },
+    {
+      "total_value_secured": 31516585.025516,
+      "total_value_secured_short": 14350814.77948,
+      "total_value_secured_long": 17165770.246036,
+      "timestamp": "1633741869"
+    },
+    {
+      "total_value_secured": 31508759.189116,
+      "total_value_secured_short": 14326731.455298,
+      "total_value_secured_long": 17182027.733818,
+      "timestamp": "1633752591"
+    },
+    {
+      "total_value_secured": 31504667.639215,
+      "total_value_secured_short": 14141668.743311,
+      "total_value_secured_long": 17362998.895904,
+      "timestamp": "1633760163"
+    },
+    {
+      "total_value_secured": 31566667.749318,
+      "total_value_secured_short": 14195143.985927,
+      "total_value_secured_long": 17371523.763391,
+      "timestamp": "1633770713"
+    },
+    {
+      "total_value_secured": 31842854.408887,
+      "total_value_secured_short": 14282774.534765,
+      "total_value_secured_long": 17560079.874122,
+      "timestamp": "1633778465"
+    },
+    {
+      "total_value_secured": 31953648.54882,
+      "total_value_secured_short": 14261554.854757,
+      "total_value_secured_long": 17692093.694063,
+      "timestamp": "1633788989"
+    },
+    {
+      "total_value_secured": 32715376.570326,
+      "total_value_secured_short": 14852574.433103,
+      "total_value_secured_long": 17862802.137223,
+      "timestamp": "1633799302"
+    },
+    {
+      "total_value_secured": 32819212.829285,
+      "total_value_secured_short": 15002111.278234,
+      "total_value_secured_long": 17817101.551051,
+      "timestamp": "1633810204"
+    },
+    {
+      "total_value_secured": 32950483.969287,
+      "total_value_secured_short": 15048383.680816,
+      "total_value_secured_long": 17902100.288471,
+      "timestamp": "1633821069"
+    },
+    {
+      "total_value_secured": 32935008.265417,
+      "total_value_secured_short": 15203500.461188,
+      "total_value_secured_long": 17731507.804229,
+      "timestamp": "1633829342"
+    },
+    {
+      "total_value_secured": 32883268.217337,
+      "total_value_secured_short": 15205131.010904,
+      "total_value_secured_long": 17678137.206433,
+      "timestamp": "1633839296"
+    },
+    {
+      "total_value_secured": 33188699.400664,
+      "total_value_secured_short": 14928178.192759,
+      "total_value_secured_long": 18260521.207905,
+      "timestamp": "1633847759"
+    },
+    {
+      "total_value_secured": 33278559.970343,
+      "total_value_secured_short": 15057540.768109,
+      "total_value_secured_long": 18221019.202234,
+      "timestamp": "1633857521"
+    },
+    {
+      "total_value_secured": 33353432.088352,
+      "total_value_secured_short": 15359378.00498,
+      "total_value_secured_long": 17994054.083372,
+      "timestamp": "1633866042"
+    },
+    {
+      "total_value_secured": 33550926.108697,
+      "total_value_secured_short": 15442031.686709,
+      "total_value_secured_long": 18108894.421988,
+      "timestamp": "1633875738"
+    },
+    {
+      "total_value_secured": 33653221.990642,
+      "total_value_secured_short": 15604750.806995,
+      "total_value_secured_long": 18048471.183647,
+      "timestamp": "1633884240"
+    },
+    {
+      "total_value_secured": 33873590.923461,
+      "total_value_secured_short": 15768614.419946,
+      "total_value_secured_long": 18104976.503515,
+      "timestamp": "1633893909"
+    },
+    {
+      "total_value_secured": 33741831.141617,
+      "total_value_secured_short": 16007436.065701,
+      "total_value_secured_long": 17734395.075916,
+      "timestamp": "1633902430"
+    },
+    {
+      "total_value_secured": 33824217.022321,
+      "total_value_secured_short": 16150521.763074,
+      "total_value_secured_long": 17673695.259247,
+      "timestamp": "1633912103"
+    },
+    {
+      "total_value_secured": 33888354.385357,
+      "total_value_secured_short": 15769418.914976,
+      "total_value_secured_long": 18118935.470381,
+      "timestamp": "1633920762"
+    },
+    {
+      "total_value_secured": 34009801.872186,
+      "total_value_secured_short": 15438841.805251,
+      "total_value_secured_long": 18570960.066935,
+      "timestamp": "1633930510"
+    },
+    {
+      "total_value_secured": 34134001.243963,
+      "total_value_secured_short": 15341203.543709,
+      "total_value_secured_long": 18792797.700254,
+      "timestamp": "1633938926"
+    },
+    {
+      "total_value_secured": 34268578.739111,
+      "total_value_secured_short": 15534603.692355,
+      "total_value_secured_long": 18733975.046756,
+      "timestamp": "1633948808"
+    },
+    {
+      "total_value_secured": 35385537.295051,
+      "total_value_secured_short": 16170051.832187,
+      "total_value_secured_long": 19215485.462864,
+      "timestamp": "1633957208"
+    },
+    {
+      "total_value_secured": 35476931.068872,
+      "total_value_secured_short": 15948596.276791,
+      "total_value_secured_long": 19528334.792081,
+      "timestamp": "1633967179"
+    },
+    {
+      "total_value_secured": 35551013.122754,
+      "total_value_secured_short": 16186474.348949,
+      "total_value_secured_long": 19364538.773805,
+      "timestamp": "1633975451"
+    },
+    {
+      "total_value_secured": 35544805.706333,
+      "total_value_secured_short": 16390647.003101,
+      "total_value_secured_long": 19154158.703232,
+      "timestamp": "1633985359"
+    },
+    {
+      "total_value_secured": 35596380.345815,
+      "total_value_secured_short": 16448982.917925,
+      "total_value_secured_long": 19147397.42789,
+      "timestamp": "1633993654"
+    },
+    {
+      "total_value_secured": 35693531.726836,
+      "total_value_secured_short": 16616391.720028,
+      "total_value_secured_long": 19077140.006808,
+      "timestamp": "1634003483"
+    },
+    {
+      "total_value_secured": 35651559.188094,
+      "total_value_secured_short": 16751096.291548,
+      "total_value_secured_long": 18900462.896546,
+      "timestamp": "1634011938"
+    },
+    {
+      "total_value_secured": 35893350.519358,
+      "total_value_secured_short": 16630727.861545,
+      "total_value_secured_long": 19262622.657813,
+      "timestamp": "1634021651"
+    },
+    {
+      "total_value_secured": 35900432.55562,
+      "total_value_secured_short": 16625682.127442,
+      "total_value_secured_long": 19274750.428178,
+      "timestamp": "1634030102"
+    },
+    {
+      "total_value_secured": 35742272.916182,
+      "total_value_secured_short": 16716003.629829,
+      "total_value_secured_long": 19026269.286353,
+      "timestamp": "1634039872"
+    },
+    {
+      "total_value_secured": 35798331.384571,
+      "total_value_secured_short": 16556185.27845,
+      "total_value_secured_long": 19242146.106121,
+      "timestamp": "1634048472"
+    },
+    {
+      "total_value_secured": 35891980.53967,
+      "total_value_secured_short": 16828726.958426,
+      "total_value_secured_long": 19063253.581244,
+      "timestamp": "1634059167"
+    },
+    {
+      "total_value_secured": 36016461.370356,
+      "total_value_secured_short": 17121985.352791,
+      "total_value_secured_long": 18894476.017565,
+      "timestamp": "1634068841"
+    },
+    {
+      "total_value_secured": 35965565.682078,
+      "total_value_secured_short": 16872839.300907,
+      "total_value_secured_long": 19092726.381171,
+      "timestamp": "1634077664"
+    },
+    {
+      "total_value_secured": 36035506.765588,
+      "total_value_secured_short": 16685616.460382,
+      "total_value_secured_long": 19349890.305206,
+      "timestamp": "1634088562"
+    },
+    {
+      "total_value_secured": 36057378.331135,
+      "total_value_secured_short": 16843100.3045,
+      "total_value_secured_long": 19214278.026635,
+      "timestamp": "1634101647"
+    },
+    {
+      "total_value_secured": 36002583.159925,
+      "total_value_secured_short": 17408888.362548,
+      "total_value_secured_long": 18593694.797377,
+      "timestamp": "1634114026"
+    },
+    {
+      "total_value_secured": 35828295.561588,
+      "total_value_secured_short": 17197566.591712,
+      "total_value_secured_long": 18630728.969876,
+      "timestamp": "1634123583"
+    },
+    {
+      "total_value_secured": 36427987.773601,
+      "total_value_secured_short": 17565167.753855,
+      "total_value_secured_long": 18862820.019746,
+      "timestamp": "1634134467"
+    },
+    {
+      "total_value_secured": 38144780.563946,
+      "total_value_secured_short": 17777886.691185,
+      "total_value_secured_long": 20366893.872761,
+      "timestamp": "1634146951"
+    },
+    {
+      "total_value_secured": 38368270.83541,
+      "total_value_secured_short": 17673874.958781,
+      "total_value_secured_long": 20694395.876629,
+      "timestamp": "1634158014"
+    },
+    {
+      "total_value_secured": 38450283.805745,
+      "total_value_secured_short": 17638900.068355,
+      "total_value_secured_long": 20811383.73739,
+      "timestamp": "1634170854"
+    },
+    {
+      "total_value_secured": 36983958.003709,
+      "total_value_secured_short": 17879039.018027,
+      "total_value_secured_long": 19104918.985682,
+      "timestamp": "1634183139"
+    },
+    {
+      "total_value_secured": 36166176.968588,
+      "total_value_secured_short": 17659209.764715,
+      "total_value_secured_long": 18506967.203873,
+      "timestamp": "1634194349"
+    },
+    {
+      "total_value_secured": 37115880.161356,
+      "total_value_secured_short": 18218202.170917,
+      "total_value_secured_long": 18897677.990439,
+      "timestamp": "1634207248"
+    },
+    {
+      "total_value_secured": 37923206.926081,
+      "total_value_secured_short": 18503312.674438,
+      "total_value_secured_long": 19419894.251643,
+      "timestamp": "1634219491"
+    },
+    {
+      "total_value_secured": 37514813.568238,
+      "total_value_secured_short": 18193206.016886,
+      "total_value_secured_long": 19321607.551352,
+      "timestamp": "1634230827"
+    },
+    {
+      "total_value_secured": 37515415.808063,
+      "total_value_secured_short": 18145889.560606,
+      "total_value_secured_long": 19369526.247457,
+      "timestamp": "1634243603"
+    },
+    {
+      "total_value_secured": 39157761.819894,
+      "total_value_secured_short": 19133073.459489,
+      "total_value_secured_long": 20024688.360405,
+      "timestamp": "1634255714"
+    },
+    {
+      "total_value_secured": 39261783.832984,
+      "total_value_secured_short": 18682107.167299,
+      "total_value_secured_long": 20579676.665685,
+      "timestamp": "1634267177"
+    },
+    {
+      "total_value_secured": 39364412.050545,
+      "total_value_secured_short": 18729036.719712,
+      "total_value_secured_long": 20635375.330833,
+      "timestamp": "1634279921"
+    },
+    {
+      "total_value_secured": 39304607.191462,
+      "total_value_secured_short": 19097219.614382,
+      "total_value_secured_long": 20207387.57708,
+      "timestamp": "1634291946"
+    },
+    {
+      "total_value_secured": 39282623.850346,
+      "total_value_secured_short": 19023368.961421,
+      "total_value_secured_long": 20259254.888925,
+      "timestamp": "1634303457"
+    },
+    {
+      "total_value_secured": 39198693.292645,
+      "total_value_secured_short": 18558058.181626,
+      "total_value_secured_long": 20640635.111019,
+      "timestamp": "1634316210"
+    },
+    {
+      "total_value_secured": 39663931.150107,
+      "total_value_secured_short": 18524305.800193,
+      "total_value_secured_long": 21139625.349914,
+      "timestamp": "1634328145"
+    },
+    {
+      "total_value_secured": 39635149.831648,
+      "total_value_secured_short": 18666398.816477,
+      "total_value_secured_long": 20968751.015171,
+      "timestamp": "1634339647"
+    },
+    {
+      "total_value_secured": 39542473.927165,
+      "total_value_secured_short": 18707482.892501,
+      "total_value_secured_long": 20834991.034664,
+      "timestamp": "1634352452"
+    },
+    {
+      "total_value_secured": 39531522.259507,
+      "total_value_secured_short": 18464565.166121,
+      "total_value_secured_long": 21066957.093386,
+      "timestamp": "1634364651"
+    },
+    {
+      "total_value_secured": 39603692.618731,
+      "total_value_secured_short": 18401512.064802,
+      "total_value_secured_long": 21202180.553929,
+      "timestamp": "1634375913"
+    },
+    {
+      "total_value_secured": 39764098.68957,
+      "total_value_secured_short": 18616701.371579,
+      "total_value_secured_long": 21147397.317991,
+      "timestamp": "1634388722"
+    },
+    {
+      "total_value_secured": 40434890.642155,
+      "total_value_secured_short": 18870941.626152,
+      "total_value_secured_long": 21563949.016003,
+      "timestamp": "1634401009"
+    },
+    {
+      "total_value_secured": 40375628.124896,
+      "total_value_secured_short": 19006402.09982,
+      "total_value_secured_long": 21369226.025076,
+      "timestamp": "1634412197"
+    },
+    {
+      "total_value_secured": 40288004.119161,
+      "total_value_secured_short": 19139128.505987,
+      "total_value_secured_long": 21148875.613174,
+      "timestamp": "1634425141"
+    },
+    {
+      "total_value_secured": 40796560.189992,
+      "total_value_secured_short": 19277586.172335,
+      "total_value_secured_long": 21518974.017657,
+      "timestamp": "1634437455"
+    },
+    {
+      "total_value_secured": 40977226.626096,
+      "total_value_secured_short": 19304405.045513,
+      "total_value_secured_long": 21672821.580583,
+      "timestamp": "1634448558"
+    },
+    {
+      "total_value_secured": 40965154.616953,
+      "total_value_secured_short": 19374166.78655,
+      "total_value_secured_long": 21590987.830403,
+      "timestamp": "1634461693"
+    },
+    {
+      "total_value_secured": 41045504.286973,
+      "total_value_secured_short": 19595601.583194,
+      "total_value_secured_long": 21449902.703779,
+      "timestamp": "1634473826"
+    },
+    {
+      "total_value_secured": 40946671.152735,
+      "total_value_secured_short": 19596252.913296,
+      "total_value_secured_long": 21350418.239439,
+      "timestamp": "1634484871"
+    },
+    {
+      "total_value_secured": 40883846.222349,
+      "total_value_secured_short": 19626720.887735,
+      "total_value_secured_long": 21257125.334614,
+      "timestamp": "1634498063"
+    },
+    {
+      "total_value_secured": 40365420.454803,
+      "total_value_secured_short": 19061931.259396,
+      "total_value_secured_long": 21303489.195407,
+      "timestamp": "1634510192"
+    },
+    {
+      "total_value_secured": 41160192.84169,
+      "total_value_secured_short": 18974871.979603,
+      "total_value_secured_long": 22185320.862087,
+      "timestamp": "1634527209"
+    },
+    {
+      "total_value_secured": 41079402.538876,
+      "total_value_secured_short": 19110820.941903,
+      "total_value_secured_long": 21968581.596973,
+      "timestamp": "1634545370"
+    },
+    {
+      "total_value_secured": 41445514.374373,
+      "total_value_secured_short": 20187613.78153,
+      "total_value_secured_long": 21257900.592843,
+      "timestamp": "1634563473"
+    },
+    {
+      "total_value_secured": 41480944.209934,
+      "total_value_secured_short": 19999453.053078,
+      "total_value_secured_long": 21481491.156856,
+      "timestamp": "1634581593"
+    },
+    {
+      "total_value_secured": 41482118.701706,
+      "total_value_secured_short": 20014445.728397,
+      "total_value_secured_long": 21467672.973309,
+      "timestamp": "1634599923"
+    },
+    {
+      "total_value_secured": 41601147.057829,
+      "total_value_secured_short": 19491157.988415,
+      "total_value_secured_long": 22109989.069414,
+      "timestamp": "1634618062"
+    },
+    {
+      "total_value_secured": 41778655.586918,
+      "total_value_secured_short": 19974054.265556,
+      "total_value_secured_long": 21804601.321362,
+      "timestamp": "1634648303"
+    },
+    {
+      "total_value_secured": 41882885.635589,
+      "total_value_secured_short": 19630688.579191,
+      "total_value_secured_long": 22252197.056398,
+      "timestamp": "1634666459"
+    },
+    {
+      "total_value_secured": 42146820.318333,
+      "total_value_secured_short": 19498577.795203,
+      "total_value_secured_long": 22648242.52313,
+      "timestamp": "1634684599"
+    },
+    {
+      "total_value_secured": 42335338.034981,
+      "total_value_secured_short": 19787907.087961,
+      "total_value_secured_long": 22547430.94702,
+      "timestamp": "1634702830"
+    },
+    {
+      "total_value_secured": 42468567.079225,
+      "total_value_secured_short": 19813518.375796,
+      "total_value_secured_long": 22655048.703429,
+      "timestamp": "1634720954"
+    },
+    {
+      "total_value_secured": 42553963.081519,
+      "total_value_secured_short": 19129745.388226,
+      "total_value_secured_long": 23424217.693293,
+      "timestamp": "1634739179"
+    },
+    {
+      "total_value_secured": 44502398.656684,
+      "total_value_secured_short": 19897088.43393,
+      "total_value_secured_long": 24605310.222754,
+      "timestamp": "1634757424"
+    },
+    {
+      "total_value_secured": 44174408.666577,
+      "total_value_secured_short": 19866296.368355,
+      "total_value_secured_long": 24308112.298222,
+      "timestamp": "1634775592"
+    },
+    {
+      "total_value_secured": 44203530.21898,
+      "total_value_secured_short": 20246854.152224,
+      "total_value_secured_long": 23956676.066756,
+      "timestamp": "1634793684"
+    },
+    {
+      "total_value_secured": 44419851.609289,
+      "total_value_secured_short": 19761401.755897,
+      "total_value_secured_long": 24658449.853392,
+      "timestamp": "1634811835"
+    },
+    {
+      "total_value_secured": 42932492.672837,
+      "total_value_secured_short": 20297236.710459,
+      "total_value_secured_long": 22635255.962378,
+      "timestamp": "1634830043"
+    },
+    {
+      "total_value_secured": 41890129.118638,
+      "total_value_secured_short": 19954631.909752,
+      "total_value_secured_long": 21935497.208886,
+      "timestamp": "1634850556"
+    },
+    {
+      "total_value_secured": 41983567.936283,
+      "total_value_secured_short": 19838003.861214,
+      "total_value_secured_long": 22145564.075069,
+      "timestamp": "1634868848"
+    },
+    {
+      "total_value_secured": 42016178.324471,
+      "total_value_secured_short": 19907816.934453,
+      "total_value_secured_long": 22108361.390018,
+      "timestamp": "1634886982"
+    },
+    {
+      "total_value_secured": 42334293.273575,
+      "total_value_secured_short": 20084777.674035,
+      "total_value_secured_long": 22249515.59954,
+      "timestamp": "1634905235"
+    },
+    {
+      "total_value_secured": 41566377.179786,
+      "total_value_secured_short": 20377831.861789,
+      "total_value_secured_long": 21188545.317997,
+      "timestamp": "1634924351"
+    },
+    {
+      "total_value_secured": 41535495.3837,
+      "total_value_secured_short": 20463518.550634,
+      "total_value_secured_long": 21071976.833066,
+      "timestamp": "1634942565"
+    },
+    {
+      "total_value_secured": 41587516.461084,
+      "total_value_secured_short": 20060166.578671,
+      "total_value_secured_long": 21527349.882413,
+      "timestamp": "1634960823"
+    },
+    {
+      "total_value_secured": 41834223.439658,
+      "total_value_secured_short": 20402963.011769,
+      "total_value_secured_long": 21431260.427889,
+      "timestamp": "1634981636"
+    },
+    {
+      "total_value_secured": 41856627.217146,
+      "total_value_secured_short": 20208428.800568,
+      "total_value_secured_long": 21648198.416578,
+      "timestamp": "1635000763"
+    },
+    {
+      "total_value_secured": 41932946.466431,
+      "total_value_secured_short": 20214435.211759,
+      "total_value_secured_long": 21718511.254672,
+      "timestamp": "1635018956"
+    },
+    {
+      "total_value_secured": 42681335.274767,
+      "total_value_secured_short": 20511855.055937,
+      "total_value_secured_long": 22169480.21883,
+      "timestamp": "1635037178"
+    },
+    {
+      "total_value_secured": 43243250.604565,
+      "total_value_secured_short": 21126293.121339,
+      "total_value_secured_long": 22116957.483226,
+      "timestamp": "1635057965"
+    },
+    {
+      "total_value_secured": 43188087.750848,
+      "total_value_secured_short": 21025887.642097,
+      "total_value_secured_long": 22162200.108751,
+      "timestamp": "1635076212"
+    },
+    {
+      "total_value_secured": 43081560.856049,
+      "total_value_secured_short": 21384798.063207,
+      "total_value_secured_long": 21696762.792842,
+      "timestamp": "1635094525"
+    },
+    {
+      "total_value_secured": 43112218.113139,
+      "total_value_secured_short": 20767147.164446,
+      "total_value_secured_long": 22345070.948693,
+      "timestamp": "1635116133"
+    },
+    {
+      "total_value_secured": 43769704.362113,
+      "total_value_secured_short": 20809634.982795,
+      "total_value_secured_long": 22960069.379318,
+      "timestamp": "1635134388"
+    },
+    {
+      "total_value_secured": 44574336.192433,
+      "total_value_secured_short": 21057217.6269,
+      "total_value_secured_long": 23517118.565533,
+      "timestamp": "1635152432"
+    },
+    {
+      "total_value_secured": 45243706.986736,
+      "total_value_secured_short": 21723609.539062,
+      "total_value_secured_long": 23520097.447674,
+      "timestamp": "1635163514"
+    },
+    {
+      "total_value_secured": 45426283.256805,
+      "total_value_secured_short": 21707191.399503,
+      "total_value_secured_long": 23719091.857302,
+      "timestamp": "1635176410"
+    },
+    {
+      "total_value_secured": 45593564.265471,
+      "total_value_secured_short": 22000493.414287,
+      "total_value_secured_long": 23593070.851184,
+      "timestamp": "1635195052"
+    },
+    {
+      "total_value_secured": 45922977.818741,
+      "total_value_secured_short": 21960621.874322,
+      "total_value_secured_long": 23962355.944419,
+      "timestamp": "1635213233"
+    },
+    {
+      "total_value_secured": 46384251.577892,
+      "total_value_secured_short": 22517502.940407,
+      "total_value_secured_long": 23866748.637485,
+      "timestamp": "1635225371"
+    },
+    {
+      "total_value_secured": 46851331.165513,
+      "total_value_secured_short": 22650687.143504,
+      "total_value_secured_long": 24200644.022009,
+      "timestamp": "1635238516"
+    },
+    {
+      "total_value_secured": 46887581.172885,
+      "total_value_secured_short": 22671776.176047,
+      "total_value_secured_long": 24215804.996838,
+      "timestamp": "1635250041"
+    },
+    {
+      "total_value_secured": 46710403.850832,
+      "total_value_secured_short": 23020916.047606,
+      "total_value_secured_long": 23689487.803226,
+      "timestamp": "1635261711"
+    },
+    {
+      "total_value_secured": 47392086.495862,
+      "total_value_secured_short": 22914256.978616,
+      "total_value_secured_long": 24477829.517246,
+      "timestamp": "1635274809"
+    },
+    {
+      "total_value_secured": 47560062.236213,
+      "total_value_secured_short": 23374380.169502,
+      "total_value_secured_long": 24185682.066711,
+      "timestamp": "1635286371"
+    },
+    {
+      "total_value_secured": 47138022.819173,
+      "total_value_secured_short": 23081238.753046,
+      "total_value_secured_long": 24056784.066127,
+      "timestamp": "1635298003"
+    },
+    {
+      "total_value_secured": 47255589.036435,
+      "total_value_secured_short": 22638349.775715,
+      "total_value_secured_long": 24617239.26072,
+      "timestamp": "1635311036"
+    },
+    {
+      "total_value_secured": 47195663.353422,
+      "total_value_secured_short": 23692993.685767,
+      "total_value_secured_long": 23502669.667655,
+      "timestamp": "1635322600"
+    },
+    {
+      "total_value_secured": 46941454.535826,
+      "total_value_secured_short": 23440136.692555,
+      "total_value_secured_long": 23501317.843271,
+      "timestamp": "1635334341"
+    },
+    {
+      "total_value_secured": 46777291.114332,
+      "total_value_secured_short": 23254102.434071,
+      "total_value_secured_long": 23523188.680261,
+      "timestamp": "1635347402"
+    },
+    {
+      "total_value_secured": 46812129.195147,
+      "total_value_secured_short": 23329985.174835,
+      "total_value_secured_long": 23482144.020312,
+      "timestamp": "1635358960"
+    },
+    {
+      "total_value_secured": 46902124.140847,
+      "total_value_secured_short": 23380729.299985,
+      "total_value_secured_long": 23521394.840862,
+      "timestamp": "1635372957"
+    },
+    {
+      "total_value_secured": 46908205.096059,
+      "total_value_secured_short": 23523179.046854,
+      "total_value_secured_long": 23385026.049205,
+      "timestamp": "1635384525"
+    },
+    {
+      "total_value_secured": 46909411.561895,
+      "total_value_secured_short": 23132333.176288,
+      "total_value_secured_long": 23777078.385607,
+      "timestamp": "1635396282"
+    },
+    {
+      "total_value_secured": 46578120.397843,
+      "total_value_secured_short": 22820522.174234,
+      "total_value_secured_long": 23757598.223609,
+      "timestamp": "1635409189"
+    },
+    {
+      "total_value_secured": 46783298.460412,
+      "total_value_secured_short": 22411367.746603,
+      "total_value_secured_long": 24371930.713809,
+      "timestamp": "1635420914"
+    },
+    {
+      "total_value_secured": 46878897.122436,
+      "total_value_secured_short": 22565740.002768,
+      "total_value_secured_long": 24313157.119668,
+      "timestamp": "1635432570"
+    },
+    {
+      "total_value_secured": 46508226.574239,
+      "total_value_secured_short": 22443086.022964,
+      "total_value_secured_long": 24065140.551275,
+      "timestamp": "1635445596"
+    },
+    {
+      "total_value_secured": 46718068.906191,
+      "total_value_secured_short": 22644031.018325,
+      "total_value_secured_long": 24074037.887866,
+      "timestamp": "1635457357"
+    },
+    {
+      "total_value_secured": 45784604.419745,
+      "total_value_secured_short": 21975235.792917,
+      "total_value_secured_long": 23809368.626828,
+      "timestamp": "1635468879"
+    },
+    {
+      "total_value_secured": 46504822.894284,
+      "total_value_secured_short": 22060745.415702,
+      "total_value_secured_long": 24444077.478582,
+      "timestamp": "1635481909"
+    },
+    {
+      "total_value_secured": 46544952.840277,
+      "total_value_secured_short": 22546803.726149,
+      "total_value_secured_long": 23998149.114128,
+      "timestamp": "1635493688"
+    },
+    {
+      "total_value_secured": 46734859.20203,
+      "total_value_secured_short": 22803565.92566,
+      "total_value_secured_long": 23931293.27637,
+      "timestamp": "1635505138"
+    },
+    {
+      "total_value_secured": 46650055.036704,
+      "total_value_secured_short": 22471765.584536,
+      "total_value_secured_long": 24178289.452168,
+      "timestamp": "1635518325"
+    },
+    {
+      "total_value_secured": 46872432.650171,
+      "total_value_secured_short": 22058522.56434,
+      "total_value_secured_long": 24813910.085831,
+      "timestamp": "1635529924"
+    },
+    {
+      "total_value_secured": 47058569.390947,
+      "total_value_secured_short": 22317691.283342,
+      "total_value_secured_long": 24740878.107605,
+      "timestamp": "1635541490"
+    },
+    {
+      "total_value_secured": 47161712.81442,
+      "total_value_secured_short": 22579289.842237,
+      "total_value_secured_long": 24582422.972183,
+      "timestamp": "1635554603"
+    },
+    {
+      "total_value_secured": 46640527.977864,
+      "total_value_secured_short": 22550246.28323,
+      "total_value_secured_long": 24090281.694634,
+      "timestamp": "1635566255"
+    },
+    {
+      "total_value_secured": 46609474.399462,
+      "total_value_secured_short": 22469603.81932,
+      "total_value_secured_long": 24139870.580142,
+      "timestamp": "1635577873"
+    },
+    {
+      "total_value_secured": 46492866.92414,
+      "total_value_secured_short": 22580780.097175,
+      "total_value_secured_long": 23912086.826965,
+      "timestamp": "1635590860"
+    },
+    {
+      "total_value_secured": 46505573.982679,
+      "total_value_secured_short": 22581084.256338,
+      "total_value_secured_long": 23924489.726341,
+      "timestamp": "1635602574"
+    },
+    {
+      "total_value_secured": 46463607.730564,
+      "total_value_secured_short": 22771373.370541,
+      "total_value_secured_long": 23692234.360023,
+      "timestamp": "1635614186"
+    },
+    {
+      "total_value_secured": 46497327.973883,
+      "total_value_secured_short": 22434823.501394,
+      "total_value_secured_long": 24062504.472489,
+      "timestamp": "1635627177"
+    },
+    {
+      "total_value_secured": 46495815.608034,
+      "total_value_secured_short": 22494228.183841,
+      "total_value_secured_long": 24001587.424193,
+      "timestamp": "1635638755"
+    },
+    {
+      "total_value_secured": 46640965.957344,
+      "total_value_secured_short": 22408581.210969,
+      "total_value_secured_long": 24232384.746375,
+      "timestamp": "1635650607"
+    },
+    {
+      "total_value_secured": 46643008.376441,
+      "total_value_secured_short": 22812435.390098,
+      "total_value_secured_long": 23830572.986343,
+      "timestamp": "1635663576"
+    },
+    {
+      "total_value_secured": 46333687.678739,
+      "total_value_secured_short": 22820755.460975,
+      "total_value_secured_long": 23512932.217764,
+      "timestamp": "1635675124"
+    },
+    {
+      "total_value_secured": 46154005.04443,
+      "total_value_secured_short": 22716941.861384,
+      "total_value_secured_long": 23437063.183046,
+      "timestamp": "1635686788"
+    },
+    {
+      "total_value_secured": 46080054.129205,
+      "total_value_secured_short": 22527014.156345,
+      "total_value_secured_long": 23553039.97286,
+      "timestamp": "1635700008"
+    },
+    {
+      "total_value_secured": 46096837.242399,
+      "total_value_secured_short": 22457551.438231,
+      "total_value_secured_long": 23639285.804168,
+      "timestamp": "1635711582"
+    },
+    {
+      "total_value_secured": 46556110.346382,
+      "total_value_secured_short": 22512051.901454,
+      "total_value_secured_long": 24044058.444928,
+      "timestamp": "1635723592"
+    },
+    {
+      "total_value_secured": 46528563.324769,
+      "total_value_secured_short": 23032283.858379,
+      "total_value_secured_long": 23496279.46639,
+      "timestamp": "1635736439"
+    },
+    {
+      "total_value_secured": 46328795.378244,
+      "total_value_secured_short": 22823032.752682,
+      "total_value_secured_long": 23505762.625562,
+      "timestamp": "1635747834"
+    },
+    {
+      "total_value_secured": 46515731.503444,
+      "total_value_secured_short": 22292779.981719,
+      "total_value_secured_long": 24222951.521725,
+      "timestamp": "1635759776"
+    },
+    {
+      "total_value_secured": 46695990.110735,
+      "total_value_secured_short": 22466192.461685,
+      "total_value_secured_long": 24229797.64905,
+      "timestamp": "1635772841"
+    },
+    {
+      "total_value_secured": 46813896.374619,
+      "total_value_secured_short": 22684184.366021,
+      "total_value_secured_long": 24129712.008598,
+      "timestamp": "1635784218"
+    },
+    {
+      "total_value_secured": 46424057.871362,
+      "total_value_secured_short": 22504057.200963,
+      "total_value_secured_long": 23920000.670399,
+      "timestamp": "1635798801"
+    },
+    {
+      "total_value_secured": 46470384.596293,
+      "total_value_secured_short": 22555130.169707,
+      "total_value_secured_long": 23915254.426586,
+      "timestamp": "1635810736"
+    },
+    {
+      "total_value_secured": 46474370.176496,
+      "total_value_secured_short": 22652905.928703,
+      "total_value_secured_long": 23821464.247793,
+      "timestamp": "1635823939"
+    },
+    {
+      "total_value_secured": 46423457.821838,
+      "total_value_secured_short": 22262220.742932,
+      "total_value_secured_long": 24161237.078906,
+      "timestamp": "1635834970"
+    },
+    {
+      "total_value_secured": 46758150.543627,
+      "total_value_secured_short": 21971110.875308,
+      "total_value_secured_long": 24787039.668319,
+      "timestamp": "1635853180"
+    },
+    {
+      "total_value_secured": 46920493.310866,
+      "total_value_secured_short": 21903523.730597,
+      "total_value_secured_long": 25016969.580269,
+      "timestamp": "1635871265"
+    },
+    {
+      "total_value_secured": 46765309.005316,
+      "total_value_secured_short": 22194014.721478,
+      "total_value_secured_long": 24571294.283838,
+      "timestamp": "1635889490"
+    },
+    {
+      "total_value_secured": 46854358.084678,
+      "total_value_secured_short": 22260473.315444,
+      "total_value_secured_long": 24593884.769234,
+      "timestamp": "1635907638"
+    },
+    {
+      "total_value_secured": 46911174.124483,
+      "total_value_secured_short": 22397219.284384,
+      "total_value_secured_long": 24513954.840099,
+      "timestamp": "1635925845"
+    },
+    {
+      "total_value_secured": 46732884.372056,
+      "total_value_secured_short": 22539708.602259,
+      "total_value_secured_long": 24193175.769797,
+      "timestamp": "1635944018"
+    },
+    {
+      "total_value_secured": 46497892.190632,
+      "total_value_secured_short": 22445978.073923,
+      "total_value_secured_long": 24051914.116709,
+      "timestamp": "1635962264"
+    },
+    {
+      "total_value_secured": 47351652.541789,
+      "total_value_secured_short": 22704267.239063,
+      "total_value_secured_long": 24647385.302726,
+      "timestamp": "1635980560"
+    },
+    {
+      "total_value_secured": 47423018.655733,
+      "total_value_secured_short": 23066570.651584,
+      "total_value_secured_long": 24356448.004149,
+      "timestamp": "1635998736"
+    },
+    {
+      "total_value_secured": 47426843.530109,
+      "total_value_secured_short": 23414102.315838,
+      "total_value_secured_long": 24012741.214271,
+      "timestamp": "1636016903"
+    },
+    {
+      "total_value_secured": 47136561.713548,
+      "total_value_secured_short": 22761936.34795,
+      "total_value_secured_long": 24374625.365598,
+      "timestamp": "1636035077"
+    },
+    {
+      "total_value_secured": 47558447.456902,
+      "total_value_secured_short": 23565641.861871,
+      "total_value_secured_long": 23992805.595031,
+      "timestamp": "1636053229"
+    },
+    {
+      "total_value_secured": 47573718.124081,
+      "total_value_secured_short": 23179758.450027,
+      "total_value_secured_long": 24393959.674054,
+      "timestamp": "1636071327"
+    },
+    {
+      "total_value_secured": 47606629.763872,
+      "total_value_secured_short": 23056086.551876,
+      "total_value_secured_long": 24550543.211996,
+      "timestamp": "1636090562"
+    },
+    {
+      "total_value_secured": 47703221.249354,
+      "total_value_secured_short": 23344500.985796,
+      "total_value_secured_long": 24358720.263558,
+      "timestamp": "1636108819"
+    },
+    {
+      "total_value_secured": 46918182.944355,
+      "total_value_secured_short": 23635192.630013,
+      "total_value_secured_long": 23282990.314342,
+      "timestamp": "1636126918"
+    },
+    {
+      "total_value_secured": 47254395.831122,
+      "total_value_secured_short": 23758874.626907,
+      "total_value_secured_long": 23495521.204215,
+      "timestamp": "1636145066"
+    },
+    {
+      "total_value_secured": 47243908.510706,
+      "total_value_secured_short": 23525093.786779,
+      "total_value_secured_long": 23718814.723927,
+      "timestamp": "1636163198"
+    },
+    {
+      "total_value_secured": 47243560.649651,
+      "total_value_secured_short": 23394119.512876,
+      "total_value_secured_long": 23849441.136775,
+      "timestamp": "1636181321"
+    },
+    {
+      "total_value_secured": 47304055.614946,
+      "total_value_secured_short": 24089438.195444,
+      "total_value_secured_long": 23214617.419502,
+      "timestamp": "1636199417"
+    },
+    {
+      "total_value_secured": 47276406.724474,
+      "total_value_secured_short": 23875889.46577,
+      "total_value_secured_long": 23400517.258704,
+      "timestamp": "1636217595"
+    },
+    {
+      "total_value_secured": 47103544.904193,
+      "total_value_secured_short": 23084906.320328,
+      "total_value_secured_long": 24018638.583865,
+      "timestamp": "1636235752"
+    },
+    {
+      "total_value_secured": 47306814.375275,
+      "total_value_secured_short": 23094819.241182,
+      "total_value_secured_long": 24211995.134093,
+      "timestamp": "1636253826"
+    },
+    {
+      "total_value_secured": 47668344.444848,
+      "total_value_secured_short": 23355854.300408,
+      "total_value_secured_long": 24312490.14444,
+      "timestamp": "1636272039"
+    },
+    {
+      "total_value_secured": 47903447.017252,
+      "total_value_secured_short": 23438161.142298,
+      "total_value_secured_long": 24465285.874954,
+      "timestamp": "1636290231"
+    },
+    {
+      "total_value_secured": 48158710.200628,
+      "total_value_secured_short": 23523296.843392,
+      "total_value_secured_long": 24635413.357236,
+      "timestamp": "1636308483"
+    },
+    {
+      "total_value_secured": 48536401.590373,
+      "total_value_secured_short": 23578184.513381,
+      "total_value_secured_long": 24958217.076992,
+      "timestamp": "1636326545"
+    },
+    {
+      "total_value_secured": 49317425.745124,
+      "total_value_secured_short": 23265166.668359,
+      "total_value_secured_long": 26052259.076765,
+      "timestamp": "1636344767"
+    },
+    {
+      "total_value_secured": 50748275.109214,
+      "total_value_secured_short": 23850526.136162,
+      "total_value_secured_long": 26897748.973052,
+      "timestamp": "1636362913"
+    },
+    {
+      "total_value_secured": 50586293.464987,
+      "total_value_secured_short": 24241985.275159,
+      "total_value_secured_long": 26344308.189828,
+      "timestamp": "1636381015"
+    },
+    {
+      "total_value_secured": 50533863.445109,
+      "total_value_secured_short": 23986864.989503,
+      "total_value_secured_long": 26546998.455606,
+      "timestamp": "1636399095"
+    },
+    {
+      "total_value_secured": 50584851.2159,
+      "total_value_secured_short": 23602955.188946,
+      "total_value_secured_long": 26981896.026954,
+      "timestamp": "1636417228"
+    },
+    {
+      "total_value_secured": 50682361.329516,
+      "total_value_secured_short": 23518331.456045,
+      "total_value_secured_long": 27164029.873471,
+      "timestamp": "1636435289"
+    },
+    {
+      "total_value_secured": 50833734.408588,
+      "total_value_secured_short": 23720649.586371,
+      "total_value_secured_long": 27113084.822217,
+      "timestamp": "1636453413"
+    },
+    {
+      "total_value_secured": 50734540.10893,
+      "total_value_secured_short": 24113732.463419,
+      "total_value_secured_long": 26620807.645511,
+      "timestamp": "1636471558"
+    },
+    {
+      "total_value_secured": 50728514.919895,
+      "total_value_secured_short": 24308007.726933,
+      "total_value_secured_long": 26420507.192962,
+      "timestamp": "1636489715"
+    },
+    {
+      "total_value_secured": 50689764.674398,
+      "total_value_secured_short": 24243266.491923,
+      "total_value_secured_long": 26446498.182475,
+      "timestamp": "1636507849"
+    },
+    {
+      "total_value_secured": 50738834.130796,
+      "total_value_secured_short": 24407966.991903,
+      "total_value_secured_long": 26330867.138893,
+      "timestamp": "1636526026"
+    },
+    {
+      "total_value_secured": 50809251.086769,
+      "total_value_secured_short": 24238414.742385,
+      "total_value_secured_long": 26570836.344384,
+      "timestamp": "1636544300"
+    },
+    {
+      "total_value_secured": 51071244.381461,
+      "total_value_secured_short": 23733158.354976,
+      "total_value_secured_long": 27338086.026485,
+      "timestamp": "1636562465"
+    },
+    {
+      "total_value_secured": 50444661.131448,
+      "total_value_secured_short": 25553619.602859,
+      "total_value_secured_long": 24891041.528589,
+      "timestamp": "1636580587"
+    },
+    {
+      "total_value_secured": 51337750.108351,
+      "total_value_secured_short": 25219864.247842,
+      "total_value_secured_long": 26117885.860509,
+      "timestamp": "1636598724"
+    },
+    {
+      "total_value_secured": 51148547.704622,
+      "total_value_secured_short": 24339971.385282,
+      "total_value_secured_long": 26808576.31934,
+      "timestamp": "1636617024"
+    },
+    {
+      "total_value_secured": 51541232.223278,
+      "total_value_secured_short": 24733467.702482,
+      "total_value_secured_long": 26807764.520796,
+      "timestamp": "1636635113"
+    },
+    {
+      "total_value_secured": 51829827.161485,
+      "total_value_secured_short": 24722078.065709,
+      "total_value_secured_long": 27107749.095776,
+      "timestamp": "1636653208"
+    },
+    {
+      "total_value_secured": 51575389.950333,
+      "total_value_secured_short": 24463605.893291,
+      "total_value_secured_long": 27111784.057042,
+      "timestamp": "1636671342"
+    },
+    {
+      "total_value_secured": 51615167.733365,
+      "total_value_secured_short": 24510226.501154,
+      "total_value_secured_long": 27104941.232211,
+      "timestamp": "1636689586"
+    },
+    {
+      "total_value_secured": 51441824.784432,
+      "total_value_secured_short": 24628319.297447,
+      "total_value_secured_long": 26813505.486985,
+      "timestamp": "1636707823"
+    },
+    {
+      "total_value_secured": 51728899.176824,
+      "total_value_secured_short": 25381101.121057,
+      "total_value_secured_long": 26347798.055767,
+      "timestamp": "1636725895"
+    },
+    {
+      "total_value_secured": 51147117.17321,
+      "total_value_secured_short": 24853321.503346,
+      "total_value_secured_long": 26293795.669864,
+      "timestamp": "1636744056"
+    },
+    {
+      "total_value_secured": 51260107.993844,
+      "total_value_secured_short": 24835014.29177,
+      "total_value_secured_long": 26425093.702074,
+      "timestamp": "1636762185"
+    },
+    {
+      "total_value_secured": 51194045.175256,
+      "total_value_secured_short": 25296133.639356,
+      "total_value_secured_long": 25897911.5359,
+      "timestamp": "1636780504"
+    },
+    {
+      "total_value_secured": 51085894.161096,
+      "total_value_secured_short": 25263032.838748,
+      "total_value_secured_long": 25822861.322348,
+      "timestamp": "1636798598"
+    },
+    {
+      "total_value_secured": 50932512.846095,
+      "total_value_secured_short": 24625485.571225,
+      "total_value_secured_long": 26307027.27487,
+      "timestamp": "1636816794"
+    },
+    {
+      "total_value_secured": 50892007.517033,
+      "total_value_secured_short": 24958858.224364,
+      "total_value_secured_long": 25933149.292669,
+      "timestamp": "1636834905"
+    },
+    {
+      "total_value_secured": 50851047.270614,
+      "total_value_secured_short": 24438874.730427,
+      "total_value_secured_long": 26412172.540187,
+      "timestamp": "1636853093"
+    },
+    {
+      "total_value_secured": 49656668.322876,
+      "total_value_secured_short": 24072603.576306,
+      "total_value_secured_long": 25584064.74657,
+      "timestamp": "1636871266"
+    },
+    {
+      "total_value_secured": 49612109.591628,
+      "total_value_secured_short": 24390870.809512,
+      "total_value_secured_long": 25221238.782116,
+      "timestamp": "1636889534"
+    },
+    {
+      "total_value_secured": 49691533.128488,
+      "total_value_secured_short": 24544280.426489,
+      "total_value_secured_long": 25147252.701999,
+      "timestamp": "1636907710"
+    },
+    {
+      "total_value_secured": 49693281.372592,
+      "total_value_secured_short": 24464776.85447,
+      "total_value_secured_long": 25228504.518122,
+      "timestamp": "1636925855"
+    },
+    {
+      "total_value_secured": 49864453.497571,
+      "total_value_secured_short": 23825172.24291,
+      "total_value_secured_long": 26039281.254661,
+      "timestamp": "1636944036"
+    },
+    {
+      "total_value_secured": 49999901.215176,
+      "total_value_secured_short": 24003037.890756,
+      "total_value_secured_long": 25996863.32442,
+      "timestamp": "1636962216"
+    },
+    {
+      "total_value_secured": 50323178.415767,
+      "total_value_secured_short": 23924968.930398,
+      "total_value_secured_long": 26398209.485369,
+      "timestamp": "1636980314"
+    },
+    {
+      "total_value_secured": 50101849.027408,
+      "total_value_secured_short": 24631047.749304,
+      "total_value_secured_long": 25470801.278104,
+      "timestamp": "1636998442"
+    },
+    {
+      "total_value_secured": 49947176.649981,
+      "total_value_secured_short": 24727668.270008,
+      "total_value_secured_long": 25219508.379973,
+      "timestamp": "1637016593"
+    },
+    {
+      "total_value_secured": 49431520.940641,
+      "total_value_secured_short": 25782998.853338,
+      "total_value_secured_long": 23648522.087303,
+      "timestamp": "1637034810"
+    },
+    {
+      "total_value_secured": 49023329.17182,
+      "total_value_secured_short": 25117380.594041,
+      "total_value_secured_long": 23905948.577779,
+      "timestamp": "1637052961"
+    },
+    {
+      "total_value_secured": 48710610.660964,
+      "total_value_secured_short": 24679154.176402,
+      "total_value_secured_long": 24031456.484562,
+      "timestamp": "1637071182"
+    },
+    {
+      "total_value_secured": 48892410.341325,
+      "total_value_secured_short": 25113058.133446,
+      "total_value_secured_long": 23779352.207879,
+      "timestamp": "1637089391"
+    },
+    {
+      "total_value_secured": 47236013.374852,
+      "total_value_secured_short": 24055799.995017,
+      "total_value_secured_long": 23180213.379835,
+      "timestamp": "1637107490"
+    },
+    {
+      "total_value_secured": 45110685.591281,
+      "total_value_secured_short": 22903224.061401,
+      "total_value_secured_long": 22207461.52988,
+      "timestamp": "1637125575"
+    },
+    {
+      "total_value_secured": 45093168.279268,
+      "total_value_secured_short": 22824887.815948,
+      "total_value_secured_long": 22268280.46332,
+      "timestamp": "1637143712"
+    },
+    {
+      "total_value_secured": 45097172.28884,
+      "total_value_secured_short": 22635050.848219,
+      "total_value_secured_long": 22462121.440621,
+      "timestamp": "1637161910"
+    },
+    {
+      "total_value_secured": 45143997.78375,
+      "total_value_secured_short": 22222232.242463,
+      "total_value_secured_long": 22921765.541287,
+      "timestamp": "1637180029"
+    },
+    {
+      "total_value_secured": 45099870.335136,
+      "total_value_secured_short": 22108496.50935,
+      "total_value_secured_long": 22991373.825786,
+      "timestamp": "1637198692"
+    },
+    {
+      "total_value_secured": 45179847.186638,
+      "total_value_secured_short": 22441680.636747,
+      "total_value_secured_long": 22738166.549891,
+      "timestamp": "1637217050"
+    },
+    {
+      "total_value_secured": 44963236.121028,
+      "total_value_secured_short": 22420263.344,
+      "total_value_secured_long": 22542972.777028,
+      "timestamp": "1637235176"
+    },
+    {
+      "total_value_secured": 44616481.174779,
+      "total_value_secured_short": 23314535.643511,
+      "total_value_secured_long": 21301945.531268,
+      "timestamp": "1637253341"
+    },
+    {
+      "total_value_secured": 44377526.704065,
+      "total_value_secured_short": 22746788.971148,
+      "total_value_secured_long": 21630737.732917,
+      "timestamp": "1637271552"
+    },
+    {
+      "total_value_secured": 44542700.446587,
+      "total_value_secured_short": 23000407.121929,
+      "total_value_secured_long": 21542293.324658,
+      "timestamp": "1637289773"
+    },
+    {
+      "total_value_secured": 44106098.153278,
+      "total_value_secured_short": 22557785.765611,
+      "total_value_secured_long": 21548312.387667,
+      "timestamp": "1637307831"
+    },
+    {
+      "total_value_secured": 44456165.88847,
+      "total_value_secured_short": 22184931.001572,
+      "total_value_secured_long": 22271234.886898,
+      "timestamp": "1637326010"
+    },
+    {
+      "total_value_secured": 44668234.735941,
+      "total_value_secured_short": 21816706.804204,
+      "total_value_secured_long": 22851527.931737,
+      "timestamp": "1637344139"
+    },
+    {
+      "total_value_secured": 44317732.943242,
+      "total_value_secured_short": 21853899.45016,
+      "total_value_secured_long": 22463833.493082,
+      "timestamp": "1637362243"
+    },
+    {
+      "total_value_secured": 44428121.895025,
+      "total_value_secured_short": 21865399.711528,
+      "total_value_secured_long": 22562722.183497,
+      "timestamp": "1637380453"
+    },
+    {
+      "total_value_secured": 44409042.368611,
+      "total_value_secured_short": 21847747.733742,
+      "total_value_secured_long": 22561294.634869,
+      "timestamp": "1637398583"
+    },
+    {
+      "total_value_secured": 44420126.691419,
+      "total_value_secured_short": 21839593.76321,
+      "total_value_secured_long": 22580532.928209,
+      "timestamp": "1637416868"
+    },
+    {
+      "total_value_secured": 45072373.038062,
+      "total_value_secured_short": 21780283.289096,
+      "total_value_secured_long": 23292089.748966,
+      "timestamp": "1637434992"
+    },
+    {
+      "total_value_secured": 45147897.592661,
+      "total_value_secured_short": 21774827.156747,
+      "total_value_secured_long": 23373070.435914,
+      "timestamp": "1637453092"
+    },
+    {
+      "total_value_secured": 45013966.452286,
+      "total_value_secured_short": 22278673.064044,
+      "total_value_secured_long": 22735293.388242,
+      "timestamp": "1637471185"
+    },
+    {
+      "total_value_secured": 45067454.239492,
+      "total_value_secured_short": 22193720.431655,
+      "total_value_secured_long": 22873733.807837,
+      "timestamp": "1637489418"
+    },
+    {
+      "total_value_secured": 44878450.365343,
+      "total_value_secured_short": 22085345.171448,
+      "total_value_secured_long": 22793105.193895,
+      "timestamp": "1637507645"
+    },
+    {
+      "total_value_secured": 44706681.735521,
+      "total_value_secured_short": 21731969.69583,
+      "total_value_secured_long": 22974712.039691,
+      "timestamp": "1637525743"
+    },
+    {
+      "total_value_secured": 44383782.476135,
+      "total_value_secured_short": 22203725.77999,
+      "total_value_secured_long": 22180056.696145,
+      "timestamp": "1637543957"
+    },
+    {
+      "total_value_secured": 44285886.001229,
+      "total_value_secured_short": 22384290.728238,
+      "total_value_secured_long": 21901595.272991,
+      "timestamp": "1637562103"
+    },
+    {
+      "total_value_secured": 44235739.88265,
+      "total_value_secured_short": 22233263.86404,
+      "total_value_secured_long": 22002476.01861,
+      "timestamp": "1637580218"
+    },
+    {
+      "total_value_secured": 44500929.198178,
+      "total_value_secured_short": 22216480.428379,
+      "total_value_secured_long": 22284448.769799,
+      "timestamp": "1637598410"
+    },
+    {
+      "total_value_secured": 44176562.987547,
+      "total_value_secured_short": 23042198.598493,
+      "total_value_secured_long": 21134364.389054,
+      "timestamp": "1637616604"
+    },
+    {
+      "total_value_secured": 44237476.243862,
+      "total_value_secured_short": 22436102.834338,
+      "total_value_secured_long": 21801373.409524,
+      "timestamp": "1637634707"
+    },
+    {
+      "total_value_secured": 44012087.321724,
+      "total_value_secured_short": 22672748.043497,
+      "total_value_secured_long": 21339339.278227,
+      "timestamp": "1637652891"
+    },
+    {
+      "total_value_secured": 44073355.682272,
+      "total_value_secured_short": 22502746.596461,
+      "total_value_secured_long": 21570609.085811,
+      "timestamp": "1637671129"
+    },
+    {
+      "total_value_secured": 44241700.532605,
+      "total_value_secured_short": 21641485.059892,
+      "total_value_secured_long": 22600215.472713,
+      "timestamp": "1637689330"
+    },
+    {
+      "total_value_secured": 43465604.338995,
+      "total_value_secured_short": 21699202.883303,
+      "total_value_secured_long": 21766401.455692,
+      "timestamp": "1637707448"
+    },
+    {
+      "total_value_secured": 43965894.376337,
+      "total_value_secured_short": 22872718.939425,
+      "total_value_secured_long": 21093175.436912,
+      "timestamp": "1637725528"
+    },
+    {
+      "total_value_secured": 43569268.228191,
+      "total_value_secured_short": 21940780.635852,
+      "total_value_secured_long": 21628487.592339,
+      "timestamp": "1637743758"
+    },
+    {
+      "total_value_secured": 43581022.6933,
+      "total_value_secured_short": 22254414.877799,
+      "total_value_secured_long": 21326607.815501,
+      "timestamp": "1637761873"
+    },
+    {
+      "total_value_secured": 43761082.971328,
+      "total_value_secured_short": 22163071.503964,
+      "total_value_secured_long": 21598011.467364,
+      "timestamp": "1637780061"
+    },
+    {
+      "total_value_secured": 43741177.100786,
+      "total_value_secured_short": 21998359.484817,
+      "total_value_secured_long": 21742817.615969,
+      "timestamp": "1637798202"
+    },
+    {
+      "total_value_secured": 43932057.367578,
+      "total_value_secured_short": 22081467.444752,
+      "total_value_secured_long": 21850589.922826,
+      "timestamp": "1637816369"
+    },
+    {
+      "total_value_secured": 44110553.111545,
+      "total_value_secured_short": 22008509.927132,
+      "total_value_secured_long": 22102043.184413,
+      "timestamp": "1637834508"
+    },
+    {
+      "total_value_secured": 44358947.157119,
+      "total_value_secured_short": 21496081.584014,
+      "total_value_secured_long": 22862865.573105,
+      "timestamp": "1637852603"
+    },
+    {
+      "total_value_secured": 44363045.882379,
+      "total_value_secured_short": 21494635.300279,
+      "total_value_secured_long": 22868410.5821,
+      "timestamp": "1637870843"
+    },
+    {
+      "total_value_secured": 44442771.39563,
+      "total_value_secured_short": 21623245.230149,
+      "total_value_secured_long": 22819526.165481,
+      "timestamp": "1637888955"
+    },
+    {
+      "total_value_secured": 44233345.229675,
+      "total_value_secured_short": 21960117.853769,
+      "total_value_secured_long": 22273227.375906,
+      "timestamp": "1637907141"
+    },
+    {
+      "total_value_secured": 43568479.29201,
+      "total_value_secured_short": 22971340.866578,
+      "total_value_secured_long": 20597138.425432,
+      "timestamp": "1637925379"
+    },
+    {
+      "total_value_secured": 43267082.551239,
+      "total_value_secured_short": 22468000.227429,
+      "total_value_secured_long": 20799082.32381,
+      "timestamp": "1637943434"
+    },
+    {
+      "total_value_secured": 43351667.875782,
+      "total_value_secured_short": 22316640.759099,
+      "total_value_secured_long": 21035027.116683,
+      "timestamp": "1637961556"
+    },
+    {
+      "total_value_secured": 43415488.388603,
+      "total_value_secured_short": 22290016.080813,
+      "total_value_secured_long": 21125472.30779,
+      "timestamp": "1637994219"
+    },
+    {
+      "total_value_secured": 43415579.923799,
+      "total_value_secured_short": 22004168.085426,
+      "total_value_secured_long": 21411411.838373,
+      "timestamp": "1638030464"
+    },
+    {
+      "total_value_secured": 42665822.426944,
+      "total_value_secured_short": 22284455.300657,
+      "total_value_secured_long": 20381367.126287,
+      "timestamp": "1638066944"
+    },
+    {
+      "total_value_secured": 42157847.972762,
+      "total_value_secured_short": 21463269.182532,
+      "total_value_secured_long": 20694578.79023,
+      "timestamp": "1638103387"
+    },
+    {
+      "total_value_secured": 42282690.880964,
+      "total_value_secured_short": 20800771.024068,
+      "total_value_secured_long": 21481919.856896,
+      "timestamp": "1638139713"
+    },
+    {
+      "total_value_secured": 43200648.571708,
+      "total_value_secured_short": 21551546.234087,
+      "total_value_secured_long": 21649102.337621,
+      "timestamp": "1638176115"
+    },
+    {
+      "total_value_secured": 43290059.368718,
+      "total_value_secured_short": 21091155.355337,
+      "total_value_secured_long": 22198904.013381,
+      "timestamp": "1638212311"
+    },
+    {
+      "total_value_secured": 41749216.204512,
+      "total_value_secured_short": 20915585.253035,
+      "total_value_secured_long": 20833630.951477,
+      "timestamp": "1638248650"
+    },
+    {
+      "total_value_secured": 42622237.511298,
+      "total_value_secured_short": 20538390.571865,
+      "total_value_secured_long": 22083846.939433,
+      "timestamp": "1638284930"
+    },
+    {
+      "total_value_secured": 40965402.444939,
+      "total_value_secured_short": 20219773.908448,
+      "total_value_secured_long": 20745628.536491,
+      "timestamp": "1638321497"
+    },
+    {
+      "total_value_secured": 40655554.312539,
+      "total_value_secured_short": 20242920.834661,
+      "total_value_secured_long": 20412633.477878,
+      "timestamp": "1638357797"
+    },
+    {
+      "total_value_secured": 40359848.328943,
+      "total_value_secured_short": 20652429.772633,
+      "total_value_secured_long": 19707418.55631,
+      "timestamp": "1638394099"
+    },
+    {
+      "total_value_secured": 40288578.497104,
+      "total_value_secured_short": 20222621.328512,
+      "total_value_secured_long": 20065957.168592,
+      "timestamp": "1638430332"
+    },
+    {
+      "total_value_secured": 38971260.485148,
+      "total_value_secured_short": 19848723.970695,
+      "total_value_secured_long": 19122536.514453,
+      "timestamp": "1638466602"
+    },
+    {
+      "total_value_secured": 38579150.936231,
+      "total_value_secured_short": 19439616.765898,
+      "total_value_secured_long": 19139534.170333,
+      "timestamp": "1638503052"
+    },
+    {
+      "total_value_secured": 38625208.668029,
+      "total_value_secured_short": 19158983.156847,
+      "total_value_secured_long": 19466225.511182,
+      "timestamp": "1638539358"
+    },
+    {
+      "total_value_secured": 38216194.471553,
+      "total_value_secured_short": 19950841.553985,
+      "total_value_secured_long": 18265352.917568,
+      "timestamp": "1638575572"
+    },
+    {
+      "total_value_secured": 36530306.931199,
+      "total_value_secured_short": 20164151.02232,
+      "total_value_secured_long": 16366155.908879,
+      "timestamp": "1638611932"
+    },
+    {
+      "total_value_secured": 35584450.182381,
+      "total_value_secured_short": 18721757.566289,
+      "total_value_secured_long": 16862692.616092,
+      "timestamp": "1638648474"
+    },
+    {
+      "total_value_secured": 34360539.970144,
+      "total_value_secured_short": 17828377.702623,
+      "total_value_secured_long": 16532162.267521,
+      "timestamp": "1638684731"
+    },
+    {
+      "total_value_secured": 34426014.590015,
+      "total_value_secured_short": 18201471.982323,
+      "total_value_secured_long": 16224542.607692,
+      "timestamp": "1638721134"
+    },
+    {
+      "total_value_secured": 34498552.91908,
+      "total_value_secured_short": 18015639.853419,
+      "total_value_secured_long": 16482913.065661,
+      "timestamp": "1638757430"
+    },
+    {
+      "total_value_secured": 33671670.908512,
+      "total_value_secured_short": 17629429.076381,
+      "total_value_secured_long": 16042241.832131,
+      "timestamp": "1638793689"
+    },
+    {
+      "total_value_secured": 33536530.969371,
+      "total_value_secured_short": 16687323.260816,
+      "total_value_secured_long": 16849207.708555,
+      "timestamp": "1638830121"
+    },
+    {
+      "total_value_secured": 33108884.887521,
+      "total_value_secured_short": 16650748.182231,
+      "total_value_secured_long": 16458136.70529,
+      "timestamp": "1638866398"
+    },
+    {
+      "total_value_secured": 32543056.925438,
+      "total_value_secured_short": 16525515.755937,
+      "total_value_secured_long": 16017541.169501,
+      "timestamp": "1638902754"
+    },
+    {
+      "total_value_secured": 33445452.791491,
+      "total_value_secured_short": 17088876.984874,
+      "total_value_secured_long": 16356575.806617,
+      "timestamp": "1638939099"
+    },
+    {
+      "total_value_secured": 33031164.157357,
+      "total_value_secured_short": 16469031.965023,
+      "total_value_secured_long": 16562132.192334,
+      "timestamp": "1638975454"
+    },
+    {
+      "total_value_secured": 33277502.214742,
+      "total_value_secured_short": 16518259.938164,
+      "total_value_secured_long": 16759242.276578,
+      "timestamp": "1639011798"
+    },
+    {
+      "total_value_secured": 33374731.73765,
+      "total_value_secured_short": 17018708.028495,
+      "total_value_secured_long": 16356023.709155,
+      "timestamp": "1639048041"
+    },
+    {
+      "total_value_secured": 32902051.042437,
+      "total_value_secured_short": 17377500.153576,
+      "total_value_secured_long": 15524550.888861,
+      "timestamp": "1639084339"
+    },
+    {
+      "total_value_secured": 32725322.48603,
+      "total_value_secured_short": 17340817.163864,
+      "total_value_secured_long": 15384505.322166,
+      "timestamp": "1639120806"
+    },
+    {
+      "total_value_secured": 32718366.973284,
+      "total_value_secured_short": 17385749.367116,
+      "total_value_secured_long": 15332617.606168,
+      "timestamp": "1639157232"
+    },
+    {
+      "total_value_secured": 31745182.275189,
+      "total_value_secured_short": 16329138.753347,
+      "total_value_secured_long": 15416043.521842,
+      "timestamp": "1639193595"
+    },
+    {
+      "total_value_secured": 31803635.713889,
+      "total_value_secured_short": 16293937.099501,
+      "total_value_secured_long": 15509698.614388,
+      "timestamp": "1639229883"
+    },
+    {
+      "total_value_secured": 31709703.050455,
+      "total_value_secured_short": 16097525.728791,
+      "total_value_secured_long": 15612177.321664,
+      "timestamp": "1639266190"
+    },
+    {
+      "total_value_secured": 32189398.195677,
+      "total_value_secured_short": 16661433.605027,
+      "total_value_secured_long": 15527964.59065,
+      "timestamp": "1639302492"
+    },
+    {
+      "total_value_secured": 32218682.401588,
+      "total_value_secured_short": 16119807.578212,
+      "total_value_secured_long": 16098874.823376,
+      "timestamp": "1639338797"
+    },
+    {
+      "total_value_secured": 32100412.811342,
+      "total_value_secured_short": 16393222.644816,
+      "total_value_secured_long": 15707190.166526,
+      "timestamp": "1639375029"
+    },
+    {
+      "total_value_secured": 32050648.431578,
+      "total_value_secured_short": 17166725.276605,
+      "total_value_secured_long": 14883923.154973,
+      "timestamp": "1639411218"
+    },
+    {
+      "total_value_secured": 26055022.192838,
+      "total_value_secured_short": 13587799.212523,
+      "total_value_secured_long": 12467222.980315,
+      "timestamp": "1639447402"
+    },
+    {
+      "total_value_secured": 25744342.207415,
+      "total_value_secured_short": 13242863.544924,
+      "total_value_secured_long": 12501478.662491,
+      "timestamp": "1639483666"
+    },
+    {
+      "total_value_secured": 25489974.580147,
+      "total_value_secured_short": 13103506.593442,
+      "total_value_secured_long": 12386467.986705,
+      "timestamp": "1639519945"
+    },
+    {
+      "total_value_secured": 25457729.967567,
+      "total_value_secured_short": 13070171.410861,
+      "total_value_secured_long": 12387558.556706,
+      "timestamp": "1639556173"
+    },
+    {
+      "total_value_secured": 25476044.01637,
+      "total_value_secured_short": 13210800.683598,
+      "total_value_secured_long": 12265243.332772,
+      "timestamp": "1639592629"
+    },
+    {
+      "total_value_secured": 25339736.906442,
+      "total_value_secured_short": 12774683.027553,
+      "total_value_secured_long": 12565053.878889,
+      "timestamp": "1639628975"
+    },
+    {
+      "total_value_secured": 24575860.828542,
+      "total_value_secured_short": 12303927.678264,
+      "total_value_secured_long": 12271933.150278,
+      "timestamp": "1639665325"
+    },
+    {
+      "total_value_secured": 24381211.566797,
+      "total_value_secured_short": 12504996.735166,
+      "total_value_secured_long": 11876214.831631,
+      "timestamp": "1639701622"
+    },
+    {
+      "total_value_secured": 23934979.928977,
+      "total_value_secured_short": 12224093.596643,
+      "total_value_secured_long": 11710886.332334,
+      "timestamp": "1639723437"
+    },
+    {
+      "total_value_secured": 23984770.332566,
+      "total_value_secured_short": 12414232.689405,
+      "total_value_secured_long": 11570537.643161,
+      "timestamp": "1639742510"
+    },
+    {
+      "total_value_secured": 24236102.916184,
+      "total_value_secured_short": 12387092.177523,
+      "total_value_secured_long": 11849010.738661,
+      "timestamp": "1639770699"
+    },
+    {
+      "total_value_secured": 23646192.819928,
+      "total_value_secured_short": 12223816.548934,
+      "total_value_secured_long": 11422376.270994,
+      "timestamp": "1639788861"
+    },
+    {
+      "total_value_secured": 24331619.97475,
+      "total_value_secured_short": 12419630.974495,
+      "total_value_secured_long": 11911989.000255,
+      "timestamp": "1639806993"
+    },
+    {
+      "total_value_secured": 24298275.431001,
+      "total_value_secured_short": 12281753.431296,
+      "total_value_secured_long": 12016521.999705,
+      "timestamp": "1639825153"
+    },
+    {
+      "total_value_secured": 24300612.216961,
+      "total_value_secured_short": 12404245.834244,
+      "total_value_secured_long": 11896366.382717,
+      "timestamp": "1639843423"
+    },
+    {
+      "total_value_secured": 24320090.576061,
+      "total_value_secured_short": 12359023.895826,
+      "total_value_secured_long": 11961066.680235,
+      "timestamp": "1639861593"
+    },
+    {
+      "total_value_secured": 24308087.003874,
+      "total_value_secured_short": 12484541.90055,
+      "total_value_secured_long": 11823545.103324,
+      "timestamp": "1639879736"
+    },
+    {
+      "total_value_secured": 24319895.943617,
+      "total_value_secured_short": 12324307.881874,
+      "total_value_secured_long": 11995588.061743,
+      "timestamp": "1639898006"
+    },
+    {
+      "total_value_secured": 24336136.735409,
+      "total_value_secured_short": 12465209.966172,
+      "total_value_secured_long": 11870926.769237,
+      "timestamp": "1639916110"
+    },
+    {
+      "total_value_secured": 24349630.3934,
+      "total_value_secured_short": 12451758.410604,
+      "total_value_secured_long": 11897871.982796,
+      "timestamp": "1639934314"
+    },
+    {
+      "total_value_secured": 24278343.265095,
+      "total_value_secured_short": 12348401.960923,
+      "total_value_secured_long": 11929941.304172,
+      "timestamp": "1639952457"
+    },
+    {
+      "total_value_secured": 23630566.235192,
+      "total_value_secured_short": 12145539.551733,
+      "total_value_secured_long": 11485026.683459,
+      "timestamp": "1639970743"
+    },
+    {
+      "total_value_secured": 23565433.462351,
+      "total_value_secured_short": 12179507.313249,
+      "total_value_secured_long": 11385926.149102,
+      "timestamp": "1639988890"
+    },
+    {
+      "total_value_secured": 23626019.773154,
+      "total_value_secured_short": 12314683.97442,
+      "total_value_secured_long": 11311335.798734,
+      "timestamp": "1640007022"
+    }
+  ]
